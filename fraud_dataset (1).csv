@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_Name,Bank,Transaction_Date,Transaction_Time,Amount_INR,Merchant,City,Transaction_Velocity,Device_Changed,International_IP,Location_Risk,Label
+TXN00522,Rohit Verma,HDFC Bank,2024-12-22,13:50,17376.57,Zomato,Kolkata,4,0,0,0,0
+TXN00738,Meena Rao,ICICI Bank,2024-02-13,08:58,14535.15,Flipkart,Chennai,2,0,1,0,0
+TXN00741,Deepak Malhotra,ICICI Bank,2024-09-14,20:51,20124.34,Amazon,Ahmedabad,2,0,0,0,0
+TXN00661,Arjun Reddy,SBI,2024-10-24,10:02,26562.74,BigBazaar,Pune,2,1,0,0,0
+TXN00412,Karan Kapoor,ICICI Bank,2024-03-08,19:44,29282.65,Unnamed Store,Ahmedabad,4,0,0,1,0
+TXN00679,Amit Kumar,HDFC Bank,2024-08-25,12:49,16896.45,DMart,Bangalore,4,0,0,0,0
+TXN00627,Anjali Singh,Axis Bank,2024-08-05,16:38,17927.64,Swiggy,Ahmedabad,3,0,0,0,0
+TXN00514,Nisha Pillai,ICICI Bank,2024-11-23,10:40,19289.38,BigBazaar,Bangalore,4,1,1,0,0
+TXN00860,Karan Kapoor,ICICI Bank,2024-02-08,11:58,379.54,Amazon,Pune,1,0,0,0,0
+TXN00137,Sneha Gupta,PNB,2024-06-22,18:52,4181.61,Swiggy,Chennai,4,0,0,0,0
+TXN00812,Sneha Gupta,HDFC Bank,2024-11-18,17:07,27401.5,Unnamed Store,Delhi,1,0,0,1,0
+TXN00077,Pooja Nair,HDFC Bank,2024-08-07,12:42,24462.32,Unnamed Store,Delhi,1,0,1,1,0
+TXN00637,Karan Kapoor,PNB,2024-03-26,11:29,22387.6,Amazon,Pune,3,0,0,0,0
+TXN00974,Anjali Singh,HDFC Bank,2024-04-15,20:41,19504.32,Amazon,Pune,1,0,1,0,0
+TXN00939,Deepak Malhotra,Kotak Mahindra,2024-04-17,14:59,10917.66,Amazon,Delhi,3,0,0,0,0
+TXN00900,Rajesh Bose,HDFC Bank,2024-03-21,13:07,16022.3,Flipkart,Mumbai,3,1,0,0,0
+TXN00281,Rahul Sharma,HDFC Bank,2024-12-13,16:37,9204.1,Swiggy,Chennai,3,1,0,0,0
+TXN00884,Rajesh Bose,ICICI Bank,2024-08-30,15:17,17550.85,Zomato,Bangalore,3,1,0,0,0
+TXN00762,Anjali Singh,PNB,2024-01-27,09:41,9281.76,Swiggy,Pune,3,1,0,0,0
+TXN00320,Ritu Agarwal,HDFC Bank,2024-12-28,17:08,15977.34,Zomato,Mumbai,2,0,0,0,0
+TXN00550,Ritu Agarwal,Axis Bank,2024-06-05,09:33,32572.56,DMart,Chennai,1,1,0,0,0
+TXN00175,Pooja Nair,Axis Bank,2024-10-01,17:01,22435.52,Amazon,Ahmedabad,1,1,1,0,0
+TXN00372,Deepak Malhotra,Kotak Mahindra,2024-10-27,13:33,14027.95,BigBazaar,Hyderabad,4,0,1,0,0
+TXN00528,Arjun Reddy,Kotak Mahindra,2024-03-20,20:23,4363.81,Amazon,Chennai,1,1,1,0,0
+TXN00211,Kavya Iyer,Kotak Mahindra,2024-07-07,21:21,11905.8,DMart,Ahmedabad,3,1,0,0,0
+TXN00236,Amit Kumar,Axis Bank,2024-07-14,14:28,1304.37,Unnamed Store,Bangalore,2,1,0,1,0
+TXN00102,Nisha Pillai,Axis Bank,2024-04-14,11:17,14581.02,BigBazaar,Pune,4,1,0,0,0
+TXN00987,Rohit Verma,PNB,2024-08-02,14:45,4597.62,Amazon,Hyderabad,3,0,1,0,0
+TXN00903,Karan Kapoor,HDFC Bank,2024-08-24,17:36,28895.48,BigBazaar,Chennai,3,1,0,0,0
+TXN00948,Rohit Verma,HDFC Bank,2024-11-12,21:43,21146.44,DMart,Hyderabad,2,0,0,0,0
+TXN00347,Vivek Saxena,SBI,2024-01-29,09:48,34094.5,DMart,Chennai,2,0,1,0,0
+TXN00140,Vivek Saxena,Kotak Mahindra,2024-05-27,18:38,19746.58,Swiggy,Delhi,3,1,0,0,0
+TXN00622,Rajesh Bose,Axis Bank,2024-12-26,21:35,29697.76,Amazon,Hyderabad,3,0,0,0,0
+TXN00500,Anjali Singh,Axis Bank,2024-04-02,14:36,14953.21,Zomato,Pune,4,0,0,0,0
+TXN00371,Vikram Mehta,SBI,2024-02-04,09:05,1685.12,Flipkart,Kolkata,2,0,0,0,0
+TXN00199,Vivek Saxena,ICICI Bank,2024-05-28,20:41,22859.32,BigBazaar,Kolkata,1,1,1,0,0
+TXN00688,Vikram Mehta,Kotak Mahindra,2024-08-03,08:28,33333.25,Swiggy,Hyderabad,2,1,0,0,0
+TXN00585,Anjali Singh,HDFC Bank,2024-09-11,11:54,31469.26,BigBazaar,Mumbai,3,0,0,0,0
+TXN00902,Sunita Mishra,SBI,2024-01-04,12:09,21209.09,BigBazaar,Chennai,4,0,0,0,0
+TXN00060,Anjali Singh,PNB,2024-04-11,16:09,3150.88,Amazon,Pune,2,0,0,0,0
+TXN00329,Vikram Mehta,PNB,2024-04-29,20:34,31535.43,Flipkart,Chennai,1,1,0,0,0
+TXN00097,Arjun Reddy,Kotak Mahindra,2024-11-05,15:16,18991.36,BigBazaar,Delhi,1,1,0,0,0
+TXN00313,Rohit Verma,SBI,2024-04-15,09:33,9838.47,BigBazaar,Chennai,3,0,0,0,0
+TXN00975,Anjali Singh,HDFC Bank,2024-10-05,21:10,19774.87,Amazon,Mumbai,1,0,0,0,0
+TXN00300,Rohit Verma,SBI,2024-10-22,13:40,5289.27,Unnamed Store,Chennai,4,1,0,1,0
+TXN00278,Amit Kumar,Axis Bank,2024-07-12,10:04,23619.62,Flipkart,Hyderabad,3,0,0,0,0
+TXN00925,Vikram Mehta,Kotak Mahindra,2024-06-13,22:11,2081.77,Unnamed Store,Chennai,2,1,1,1,0
+TXN00602,Karan Kapoor,ICICI Bank,2024-02-17,12:28,7721.67,Amazon,Bangalore,3,0,0,0,0
+TXN00440,Suresh Joshi,ICICI Bank,2024-08-16,20:15,10416.39,BigBazaar,Ahmedabad,1,0,0,0,0
+TXN00838,Nisha Pillai,SBI,2024-11-06,12:20,33690.71,Flipkart,Chennai,4,0,1,0,0
+TXN00571,Karan Kapoor,PNB,2024-04-04,22:01,32695.14,Flipkart,Hyderabad,2,0,0,0,0
+TXN00880,Meena Rao,PNB,2024-03-07,16:50,6163.32,DMart,Kolkata,1,0,0,0,0
+TXN00262,Rajesh Bose,HDFC Bank,2024-10-05,22:36,8195.87,Zomato,Ahmedabad,1,0,0,0,0
+TXN00579,Deepak Malhotra,ICICI Bank,2024-01-28,12:44,27123.96,Flipkart,Ahmedabad,4,0,1,0,0
+TXN00024,Meena Rao,Axis Bank,2024-02-02,03:21,229420.89,Offshore Wire Transfer,Dubai,9,1,1,2,1
+TXN00031,Karan Kapoor,SBI,2024-11-29,00:34,224269.62,Unknown Crypto Exchange,New York,6,1,1,2,1
+TXN00618,Karan Kapoor,ICICI Bank,2024-11-02,21:06,19517.05,Flipkart,Ahmedabad,3,1,0,0,0
+TXN00011,Arjun Reddy,PNB,2024-01-29,01:14,186073.2,Anonymous Merchant,Bangkok,19,1,1,2,1
+TXN00222,Rohit Verma,HDFC Bank,2024-05-27,22:20,33765.25,Swiggy,Bangalore,4,1,0,0,0
+TXN00821,Priya Patel,Kotak Mahindra,2024-09-18,19:35,11840.35,BigBazaar,Bangalore,3,0,0,0,0
+TXN00297,Amit Kumar,Axis Bank,2024-11-11,09:08,30312.11,Flipkart,Chennai,3,1,0,0,0
+TXN00055,Priya Patel,HDFC Bank,2024-04-07,13:16,20960.68,Swiggy,Pune,1,1,1,0,0
+TXN00543,Anjali Singh,Kotak Mahindra,2024-11-20,15:27,34945.49,Zomato,Pune,3,0,0,0,0
+TXN00210,Suresh Joshi,Axis Bank,2024-11-11,10:47,18272.78,Zomato,Bangalore,3,0,0,0,0
+TXN00605,Rahul Sharma,ICICI Bank,2024-09-23,18:49,32645.34,Zomato,Delhi,4,0,0,0,0
+TXN00693,Suresh Joshi,Kotak Mahindra,2024-06-25,12:09,4601.28,Flipkart,Pune,2,0,0,0,0
+TXN00663,Rahul Sharma,SBI,2024-03-14,19:40,32429.57,Swiggy,Hyderabad,4,0,0,0,0
+TXN00867,Sneha Gupta,ICICI Bank,2024-02-22,18:00,22852.07,Swiggy,Mumbai,3,0,0,0,0
+TXN00071,Rahul Sharma,Axis Bank,2024-04-03,18:03,20797.87,Amazon,Mumbai,4,0,0,0,0
+TXN00544,Suresh Joshi,Kotak Mahindra,2024-08-17,16:25,8577.14,Swiggy,Chennai,3,0,0,0,0
+TXN00108,Nisha Pillai,Axis Bank,2024-07-29,13:02,16045.99,DMart,Chennai,2,1,0,0,0
+TXN00494,Pooja Nair,ICICI Bank,2024-03-02,11:58,7395.9,Unnamed Store,Chennai,3,0,0,1,0
+TXN00591,Arjun Reddy,ICICI Bank,2024-10-19,16:46,18541.44,DMart,Chennai,2,0,0,0,0
+TXN00742,Suresh Joshi,SBI,2024-04-19,13:18,21596.01,Flipkart,Kolkata,4,0,1,0,0
+TXN00293,Rajesh Bose,PNB,2024-02-12,18:36,17424.95,Swiggy,Ahmedabad,4,1,0,0,0
+TXN00290,Pooja Nair,ICICI Bank,2024-03-11,13:36,4269.82,BigBazaar,Bangalore,4,1,1,0,0
+TXN00653,Priya Patel,Axis Bank,2024-11-19,12:28,23193.55,Amazon,Kolkata,3,1,0,0,0
+TXN00040,Amit Kumar,HDFC Bank,2024-04-19,04:32,138948.53,Unknown Crypto Exchange,Dubai,14,1,1,2,1
+TXN00590,Meena Rao,Axis Bank,2024-03-09,20:07,28745.21,Unnamed Store,Kolkata,1,0,0,1,0
+TXN00308,Amit Kumar,SBI,2024-08-04,16:44,20860.05,Amazon,Ahmedabad,1,0,0,0,0
+TXN00680,Rohit Verma,PNB,2024-07-16,20:57,14306.54,DMart,Pune,4,0,0,0,0
+TXN00067,Vikram Mehta,HDFC Bank,2024-07-18,13:57,14637.4,Swiggy,Ahmedabad,1,0,0,0,0
+TXN00276,Sunita Mishra,Kotak Mahindra,2024-10-15,13:12,27412.71,Zomato,Kolkata,4,0,0,0,0
+TXN00068,Vivek Saxena,PNB,2024-07-18,22:54,879.71,Swiggy,Kolkata,1,0,0,0,0
+TXN00319,Vikram Mehta,SBI,2024-05-05,14:05,18866.38,Zomato,Delhi,4,0,0,0,0
+TXN00549,Vivek Saxena,HDFC Bank,2024-06-20,12:22,20914.05,DMart,Mumbai,4,0,0,0,0
+TXN00999,Arjun Reddy,HDFC Bank,2024-01-03,18:22,34630.05,Flipkart,Ahmedabad,2,0,0,0,0
+TXN00715,Rahul Sharma,PNB,2024-03-05,11:13,28547.18,Unnamed Store,Bangalore,2,0,0,1,0
+TXN00754,Vivek Saxena,Kotak Mahindra,2024-10-26,22:47,8962.92,Flipkart,Delhi,1,0,0,0,0
+TXN00328,Rahul Sharma,ICICI Bank,2024-10-29,17:31,7183.36,DMart,Hyderabad,2,1,0,0,0
+TXN00383,Anjali Singh,Kotak Mahindra,2024-11-29,11:26,27338.09,DMart,Chennai,2,0,0,0,0
+TXN00452,Rajesh Bose,SBI,2024-01-28,11:54,5801.21,Flipkart,Hyderabad,1,0,1,0,0
+TXN00523,Priya Patel,ICICI Bank,2024-10-05,20:30,2991.76,Amazon,Bangalore,3,1,0,0,0
+TXN00219,Rohit Verma,ICICI Bank,2024-04-19,19:12,1663.91,Zomato,Delhi,4,0,0,0,0
+TXN00788,Vikram Mehta,Axis Bank,2024-07-07,14:39,15701.4,Zomato,Ahmedabad,4,0,0,0,0
+TXN00437,Arjun Reddy,HDFC Bank,2024-01-27,19:49,11703.59,Amazon,Bangalore,2,0,1,0,0
+TXN00765,Rohit Verma,ICICI Bank,2024-07-31,17:23,6237.07,Unnamed Store,Pune,3,0,0,1,0
+TXN00089,Suresh Joshi,SBI,2024-02-07,12:36,33799.32,Amazon,Ahmedabad,1,1,0,0,0
+TXN00064,Suresh Joshi,Axis Bank,2024-08-18,19:16,21520.3,Unnamed Store,Kolkata,4,0,0,1,0
+TXN00827,Karan Kapoor,HDFC Bank,2024-09-12,16:40,13051.44,BigBazaar,Kolkata,4,0,1,0,0
+TXN00717,Sneha Gupta,HDFC Bank,2024-02-03,16:19,27798.32,Swiggy,Mumbai,1,0,0,0,0
+TXN00352,Vivek Saxena,PNB,2024-12-26,20:42,32119.4,Unnamed Store,Delhi,3,0,0,1,0
+TXN00937,Karan Kapoor,PNB,2024-07-22,11:45,5328.39,Amazon,Bangalore,1,0,0,0,0
+TXN00257,Ritu Agarwal,HDFC Bank,2024-12-23,19:43,782.07,BigBazaar,Hyderabad,3,0,1,0,0
+TXN00636,Rajesh Bose,HDFC Bank,2024-07-15,09:15,12131.11,BigBazaar,Bangalore,2,1,0,0,0
+TXN00645,Amit Kumar,PNB,2024-02-07,12:17,15979.84,DMart,Kolkata,3,0,0,0,0
+TXN00555,Vikram Mehta,Kotak Mahindra,2024-06-14,19:43,21636.69,Flipkart,Chennai,1,0,0,0,0
+TXN00960,Pooja Nair,Axis Bank,2024-09-14,10:44,23863.34,Flipkart,Hyderabad,1,0,0,0,0
+TXN00169,Arjun Reddy,HDFC Bank,2024-02-12,21:48,22513.03,BigBazaar,Pune,1,0,0,0,0
+TXN00918,Pooja Nair,HDFC Bank,2024-06-03,12:49,23097.07,Amazon,Pune,1,0,0,0,0
+TXN00529,Amit Kumar,SBI,2024-11-26,09:09,5687.91,Unnamed Store,Pune,1,0,0,1,0
+TXN00824,Karan Kapoor,ICICI Bank,2024-06-02,08:18,20120.75,Zomato,Ahmedabad,2,0,0,0,0
+TXN00986,Nisha Pillai,Kotak Mahindra,2024-12-17,21:32,20892.67,Swiggy,Kolkata,2,0,0,0,0
+TXN00817,Rahul Sharma,PNB,2024-08-10,09:03,28257.39,Zomato,Delhi,3,1,0,0,0
+TXN00087,Meena Rao,SBI,2024-05-29,19:44,10718.91,Zomato,Bangalore,1,0,1,0,0
+TXN00433,Nisha Pillai,SBI,2024-07-17,16:26,26035.96,Flipkart,Kolkata,3,0,0,0,0
+TXN00185,Kavya Iyer,ICICI Bank,2024-01-22,19:46,15717.87,Flipkart,Kolkata,4,0,0,0,0
+TXN00979,Anita Das,Axis Bank,2024-02-12,12:16,2787.72,Swiggy,Hyderabad,2,1,0,0,0
+TXN00535,Deepak Malhotra,SBI,2024-11-24,15:20,18437.63,BigBazaar,Bangalore,3,0,0,0,0
+TXN00295,Sunita Mishra,Kotak Mahindra,2024-10-06,17:13,17976.05,Zomato,Delhi,3,0,0,0,0
+TXN00893,Vikram Mehta,Axis Bank,2024-06-09,17:54,8333.57,DMart,Ahmedabad,4,0,0,0,0
+TXN00426,Vivek Saxena,SBI,2024-11-07,10:58,25621.21,Swiggy,Delhi,3,1,0,0,0
+TXN00714,Rohit Verma,HDFC Bank,2024-12-29,12:19,16887.23,Flipkart,Pune,4,0,0,0,0
+TXN00261,Priya Patel,PNB,2024-02-18,10:57,528.87,Swiggy,Delhi,4,0,1,0,0
+TXN00238,Rajesh Bose,SBI,2024-12-10,11:46,25529.46,Unnamed Store,Mumbai,1,0,0,1,0
+TXN00560,Nisha Pillai,SBI,2024-07-11,16:37,7292.29,BigBazaar,Hyderabad,4,0,0,0,0
+TXN00584,Rohit Verma,SBI,2024-05-27,10:40,30434.89,Swiggy,Mumbai,3,0,0,0,0
+TXN00446,Arjun Reddy,Axis Bank,2024-12-10,18:07,13703.53,Swiggy,Kolkata,3,0,0,0,0
+TXN00868,Anita Das,PNB,2024-08-03,20:30,2550.55,BigBazaar,Chennai,2,0,0,0,0
+TXN00801,Vikram Mehta,ICICI Bank,2024-11-18,21:54,20016.18,Amazon,Kolkata,3,0,0,0,0
+TXN00600,Rahul Sharma,ICICI Bank,2024-02-29,18:55,34429.93,BigBazaar,Bangalore,4,0,1,0,0
+TXN00850,Suresh Joshi,ICICI Bank,2024-08-31,17:00,7529.71,Amazon,Pune,2,0,1,0,0
+TXN00266,Anita Das,Kotak Mahindra,2024-04-26,20:22,14005.27,Amazon,Pune,3,1,0,0,0
+TXN00996,Meena Rao,HDFC Bank,2024-04-05,13:25,21620.45,Zomato,Hyderabad,1,0,0,0,0
+TXN00530,Nisha Pillai,HDFC Bank,2024-01-11,11:44,4578.8,BigBazaar,Pune,3,1,0,0,0
+TXN00056,Priya Patel,PNB,2024-11-15,16:20,15374.8,Zomato,Chennai,4,0,0,0,0
+TXN00121,Karan Kapoor,HDFC Bank,2024-03-30,19:12,20369.17,Amazon,Bangalore,3,0,0,0,0
+TXN00216,Suresh Joshi,SBI,2024-09-04,16:12,16196.29,BigBazaar,Pune,3,0,1,0,0
+TXN00026,Priya Patel,SBI,2024-05-01,00:17,58817.07,Unknown Crypto Exchange,Singapore,14,1,1,2,1
+TXN00073,Amit Kumar,Axis Bank,2024-01-16,16:15,874.54,Zomato,Mumbai,2,0,0,0,0
+TXN00045,Priya Patel,HDFC Bank,2024-06-19,22:49,175028.31,Unknown Crypto Exchange,Singapore,6,1,1,2,1
+TXN00248,Amit Kumar,SBI,2024-01-08,17:13,28201.84,Swiggy,Chennai,2,0,0,0,0
+TXN00722,Meena Rao,Axis Bank,2024-08-26,16:07,14958.4,Swiggy,Chennai,1,0,0,0,0
+TXN00282,Rajesh Bose,SBI,2024-02-29,08:53,12204.87,Amazon,Ahmedabad,3,1,0,0,0
+TXN00894,Vikram Mehta,Axis Bank,2024-01-16,19:23,27000.56,Flipkart,Kolkata,4,1,1,0,0
+TXN00915,Rahul Sharma,HDFC Bank,2024-01-23,11:26,11931.66,Flipkart,Delhi,1,0,0,0,0
+TXN00811,Meena Rao,HDFC Bank,2024-08-22,16:53,26999.3,Flipkart,Hyderabad,1,0,0,0,0
+TXN00245,Deepak Malhotra,SBI,2024-08-25,15:58,26453.68,Unnamed Store,Chennai,2,0,0,1,0
+TXN00823,Ritu Agarwal,Kotak Mahindra,2024-11-29,08:07,4043.38,Zomato,Pune,3,0,0,0,0
+TXN00322,Rahul Sharma,ICICI Bank,2024-09-18,12:23,28287.35,Zomato,Delhi,1,1,0,0,0
+TXN00644,Anita Das,SBI,2024-08-27,20:42,13283.35,Amazon,Bangalore,2,0,0,0,0
+TXN00159,Suresh Joshi,PNB,2024-09-25,18:33,3134.65,Amazon,Bangalore,2,1,0,0,0
+TXN00978,Rohit Verma,ICICI Bank,2024-03-06,11:46,29991.76,BigBazaar,Bangalore,2,0,0,0,0
+TXN00430,Sunita Mishra,Kotak Mahindra,2024-09-24,18:06,20058.21,DMart,Kolkata,3,1,0,0,0
+TXN00942,Sneha Gupta,Axis Bank,2024-05-12,11:57,19934.81,Flipkart,Bangalore,1,0,0,0,0
+TXN00463,Pooja Nair,HDFC Bank,2024-01-21,16:41,23466.78,Swiggy,Pune,4,1,0,0,0
+TXN00310,Kavya Iyer,SBI,2024-10-15,21:00,13518.69,DMart,Bangalore,2,0,1,0,0
+TXN00698,Vikram Mehta,Kotak Mahindra,2024-08-16,20:43,18519.9,Flipkart,Hyderabad,1,0,1,0,0
+TXN00061,Rahul Sharma,HDFC Bank,2024-09-10,15:25,8720.52,Swiggy,Delhi,4,0,0,0,0
+TXN00885,Vivek Saxena,Axis Bank,2024-04-30,20:25,22406.07,Flipkart,Mumbai,2,0,0,0,0
+TXN00596,Kavya Iyer,Kotak Mahindra,2024-10-18,20:39,19339.78,Amazon,Mumbai,3,0,0,0,0
+TXN00768,Anjali Singh,Kotak Mahindra,2024-04-24,19:45,4283.8,Unnamed Store,Kolkata,4,1,0,1,0
+TXN00650,Deepak Malhotra,Kotak Mahindra,2024-10-03,19:14,328.89,Swiggy,Ahmedabad,4,1,0,0,0
+TXN00651,Rahul Sharma,Axis Bank,2024-07-24,21:03,33404.61,Amazon,Ahmedabad,3,0,0,0,0
+TXN00866,Sneha Gupta,Kotak Mahindra,2024-11-13,11:39,26368.32,Swiggy,Mumbai,4,1,0,0,0
+TXN00669,Rahul Sharma,Axis Bank,2024-04-11,09:47,18118.65,DMart,Chennai,4,0,0,0,0
+TXN00299,Kavya Iyer,Kotak Mahindra,2024-12-01,21:08,9503.54,Flipkart,Delhi,4,0,0,0,0
+TXN00690,Suresh Joshi,Axis Bank,2024-03-28,19:50,20848.83,Swiggy,Ahmedabad,3,0,0,0,0
+TXN00315,Pooja Nair,Axis Bank,2024-10-18,09:26,22405.27,Zomato,Mumbai,3,0,0,0,0
+TXN00311,Anita Das,PNB,2024-12-17,13:28,5911.26,DMart,Chennai,2,1,1,0,0
+TXN00362,Anita Das,Axis Bank,2024-10-03,09:16,5667.21,Flipkart,Pune,2,1,1,0,0
+TXN00480,Nisha Pillai,Kotak Mahindra,2024-03-11,13:54,16989.88,Zomato,Ahmedabad,3,0,0,0,0
+TXN00111,Rohit Verma,HDFC Bank,2024-12-11,12:54,16538.27,BigBazaar,Pune,4,0,0,0,0
+TXN00990,Pooja Nair,HDFC Bank,2024-08-05,08:43,5945.94,DMart,Delhi,3,1,0,0,0
+TXN00487,Rahul Sharma,PNB,2024-05-21,22:14,24686.04,BigBazaar,Delhi,3,0,0,0,0
+TXN00364,Ritu Agarwal,HDFC Bank,2024-03-28,18:40,10450.32,Flipkart,Ahmedabad,1,0,0,0,0
+TXN00255,Rahul Sharma,Axis Bank,2024-09-15,18:29,4984.71,Amazon,Chennai,2,0,0,0,0
+TXN00260,Amit Kumar,PNB,2024-10-09,18:30,34710.28,Amazon,Mumbai,4,1,0,0,0
+TXN00803,Anita Das,PNB,2024-10-22,21:20,31696.55,Flipkart,Ahmedabad,1,0,0,0,0
+TXN00678,Pooja Nair,HDFC Bank,2024-05-02,08:41,19635.35,Flipkart,Kolkata,2,0,0,0,0
+TXN00495,Amit Kumar,PNB,2024-11-13,15:20,33461.13,Unnamed Store,Mumbai,1,1,0,1,0
+TXN00671,Pooja Nair,HDFC Bank,2024-08-20,15:11,16590.46,Swiggy,Mumbai,2,0,1,0,0
+TXN00378,Ritu Agarwal,PNB,2024-06-08,16:45,17059.22,Unnamed Store,Pune,1,0,0,1,0
+TXN00527,Vikram Mehta,ICICI Bank,2024-01-08,21:10,31085.68,Amazon,Chennai,2,1,0,0,0
+TXN00846,Pooja Nair,Kotak Mahindra,2024-05-28,22:41,33350.92,Amazon,Ahmedabad,1,1,1,0,0
+TXN00138,Karan Kapoor,Axis Bank,2024-03-19,09:43,14676.44,Swiggy,Pune,3,0,0,0,0
+TXN00356,Anita Das,SBI,2024-06-26,09:20,22459.71,Flipkart,Ahmedabad,3,0,0,0,0
+TXN00366,Amit Kumar,PNB,2024-01-23,10:16,19135.59,Swiggy,Pune,3,0,0,0,0
+TXN00943,Ritu Agarwal,Axis Bank,2024-02-13,17:24,22013.94,Unnamed Store,Delhi,2,0,0,1,0
+TXN00750,Vikram Mehta,HDFC Bank,2024-11-27,21:57,8746.41,Swiggy,Hyderabad,4,1,0,0,0
+TXN00949,Sunita Mishra,Kotak Mahindra,2024-01-24,11:51,14576.81,DMart,Mumbai,3,0,0,0,0
+TXN00830,Anjali Singh,Kotak Mahindra,2024-05-28,09:02,13052.76,Amazon,Kolkata,1,0,1,0,0
+TXN00657,Rohit Verma,Axis Bank,2024-11-19,15:03,22953.34,Flipkart,Mumbai,2,0,0,0,0
+TXN00200,Kavya Iyer,Axis Bank,2024-03-21,20:28,8721.75,Zomato,Kolkata,4,0,0,0,0
+TXN00214,Vikram Mehta,HDFC Bank,2024-11-09,14:58,15548.14,Swiggy,Bangalore,2,1,1,0,0
+TXN00409,Karan Kapoor,ICICI Bank,2024-07-03,08:51,9391.55,Unnamed Store,Delhi,2,0,0,1,0
+TXN00333,Deepak Malhotra,HDFC Bank,2024-05-13,08:54,20797.97,DMart,Kolkata,2,0,0,0,0
+TXN00209,Meena Rao,SBI,2024-03-11,16:45,7127.21,BigBazaar,Kolkata,1,0,0,0,0
+TXN00614,Sunita Mishra,HDFC Bank,2024-02-22,15:25,12430.14,Zomato,Bangalore,3,0,1,0,0
+TXN00079,Karan Kapoor,PNB,2024-10-30,10:17,5524.09,BigBazaar,Hyderabad,4,1,0,0,0
+TXN00030,Sneha Gupta,SBI,2024-04-03,04:17,84275.96,Offshore Wire Transfer,New York,12,1,1,2,1
+TXN00536,Sneha Gupta,HDFC Bank,2024-04-13,09:06,18407.38,Unnamed Store,Mumbai,2,0,0,1,0
+TXN00696,Rohit Verma,Kotak Mahindra,2024-03-12,22:43,25553.32,Zomato,Ahmedabad,1,1,0,0,0
+TXN00558,Meena Rao,SBI,2024-03-16,21:55,26569.14,Amazon,Delhi,1,0,1,0,0
+TXN00837,Vivek Saxena,HDFC Bank,2024-12-03,16:59,33513.79,Unnamed Store,Chennai,4,0,0,1,0
+TXN00597,Rahul Sharma,SBI,2024-11-26,21:08,6951.74,DMart,Pune,4,1,0,0,0
+TXN00166,Anjali Singh,SBI,2024-07-05,20:43,29130.81,DMart,Bangalore,4,0,0,0,0
+TXN00919,Anita Das,Axis Bank,2024-12-13,09:59,34411.97,Zomato,Bangalore,1,0,0,0,0
+TXN00496,Sunita Mishra,Kotak Mahindra,2024-10-22,15:08,30433.16,Unnamed Store,Bangalore,3,1,0,1,0
+TXN00825,Vivek Saxena,PNB,2024-08-20,14:06,5071.01,Amazon,Chennai,3,0,0,0,0
+TXN00066,Kavya Iyer,SBI,2024-12-21,13:09,9655.69,Flipkart,Delhi,2,0,0,0,0
+TXN00142,Nisha Pillai,ICICI Bank,2024-12-02,12:53,4198.01,Unnamed Store,Chennai,4,0,1,1,0
+TXN00926,Karan Kapoor,PNB,2024-04-14,21:08,410.28,Amazon,Ahmedabad,2,0,0,0,0
+TXN00828,Ritu Agarwal,Axis Bank,2024-03-06,15:31,24177.82,Unnamed Store,Kolkata,2,0,1,1,0
+TXN00656,Priya Patel,Axis Bank,2024-01-19,20:47,4312.91,DMart,Ahmedabad,2,0,0,0,0
+TXN00332,Rajesh Bose,Axis Bank,2024-03-09,13:40,24589.47,DMart,Ahmedabad,1,0,1,0,0
+TXN00665,Kavya Iyer,ICICI Bank,2024-07-04,16:55,14773.75,Flipkart,Chennai,1,0,1,0,0
+TXN00250,Kavya Iyer,Axis Bank,2024-09-11,18:29,16425.52,Zomato,Pune,3,0,1,0,0
+TXN00908,Vikram Mehta,Kotak Mahindra,2024-07-23,08:54,1753.3,DMart,Delhi,4,1,0,0,0
+TXN00709,Suresh Joshi,Axis Bank,2024-08-02,10:40,30765.44,Flipkart,Pune,1,0,0,0,0
+TXN00306,Rohit Verma,PNB,2024-07-09,21:42,10704.92,Amazon,Hyderabad,3,0,0,0,0
+TXN00735,Deepak Malhotra,Axis Bank,2024-03-21,17:32,26787.59,DMart,Ahmedabad,4,1,1,0,0
+TXN00976,Ritu Agarwal,PNB,2024-10-22,12:31,202.98,BigBazaar,Mumbai,3,1,0,0,0
+TXN00050,Ritu Agarwal,Kotak Mahindra,2024-07-30,01:01,198642.91,Offshore Wire Transfer,London,20,1,1,2,1
+TXN00897,Anita Das,Kotak Mahindra,2024-07-16,14:12,20170.98,Flipkart,Kolkata,4,0,1,0,0
+TXN00003,Anita Das,HDFC Bank,2024-08-17,23:37,160055.24,Foreign Gambling Site,Bangkok,9,1,1,2,1
+TXN00545,Rahul Sharma,PNB,2024-06-02,12:14,1406.27,BigBazaar,Mumbai,2,0,0,0,0
+TXN00351,Suresh Joshi,Kotak Mahindra,2024-01-12,10:09,7210.96,DMart,Pune,2,0,0,0,0
+TXN00905,Pooja Nair,SBI,2024-02-18,19:25,31518.77,Swiggy,Kolkata,4,0,1,0,0
+TXN00537,Sunita Mishra,SBI,2024-07-06,17:14,3636.62,DMart,Kolkata,4,0,0,0,0
+TXN00345,Nisha Pillai,HDFC Bank,2024-09-14,20:20,34631.25,Swiggy,Pune,4,0,1,0,0
+TXN00995,Rahul Sharma,PNB,2024-09-06,14:03,22164.94,Zomato,Chennai,1,1,1,0,0
+TXN00482,Priya Patel,SBI,2024-11-03,18:27,13740.81,Unnamed Store,Mumbai,1,0,0,1,0
+TXN00576,Deepak Malhotra,HDFC Bank,2024-10-19,21:38,21355.96,DMart,Kolkata,3,1,1,0,0
+TXN00034,Karan Kapoor,ICICI Bank,2024-04-07,23:18,131716.53,Foreign Gambling Site,Hong Kong,8,1,1,2,1
+TXN00032,Rahul Sharma,HDFC Bank,2024-09-05,22:30,234905.23,Offshore Wire Transfer,London,12,1,1,2,1
+TXN00232,Anita Das,HDFC Bank,2024-09-15,16:12,18487.63,Amazon,Pune,1,0,1,0,0
+TXN00964,Meena Rao,Axis Bank,2024-03-08,16:20,13809.0,Zomato,Hyderabad,2,1,0,0,0
+TXN00193,Sneha Gupta,SBI,2024-10-09,11:08,27763.89,Amazon,Ahmedabad,3,0,0,0,0
+TXN00334,Suresh Joshi,Axis Bank,2024-02-08,19:12,24585.25,Zomato,Pune,4,0,0,0,0
+TXN00004,Arjun Reddy,HDFC Bank,2024-05-22,01:09,200555.51,Foreign Gambling Site,Bangkok,11,1,1,2,1
+TXN00205,Karan Kapoor,SBI,2024-11-30,13:43,7687.03,Amazon,Mumbai,3,1,1,0,0
+TXN00515,Nisha Pillai,ICICI Bank,2024-07-06,15:26,31830.53,Unnamed Store,Chennai,1,1,0,1,0
+TXN00800,Rahul Sharma,HDFC Bank,2024-10-26,10:15,5980.47,Swiggy,Ahmedabad,4,0,0,0,0
+TXN00307,Anjali Singh,HDFC Bank,2024-04-19,12:30,13992.69,Swiggy,Chennai,1,0,0,0,0
+TXN00110,Vivek Saxena,ICICI Bank,2024-07-28,21:55,30465.57,Amazon,Ahmedabad,4,0,0,0,0
+TXN00431,Rahul Sharma,Axis Bank,2024-12-15,18:16,5257.37,Flipkart,Mumbai,3,0,0,0,0
+TXN00078,Meena Rao,HDFC Bank,2024-08-09,13:23,17807.44,Unnamed Store,Mumbai,4,1,0,1,0
+TXN00085,Karan Kapoor,ICICI Bank,2024-10-01,11:48,10870.48,DMart,Delhi,2,0,0,0,0
+TXN00287,Vikram Mehta,ICICI Bank,2024-06-15,20:12,26380.93,BigBazaar,Delhi,1,0,0,0,0
+TXN00083,Nisha Pillai,SBI,2024-04-23,18:25,24233.21,Swiggy,Ahmedabad,1,0,0,0,0
+TXN00992,Nisha Pillai,PNB,2024-04-25,19:11,12208.11,BigBazaar,Mumbai,4,0,1,0,0
+TXN00790,Rohit Verma,Axis Bank,2024-09-01,18:19,18549.3,Zomato,Delhi,4,1,0,0,0
+TXN00895,Rohit Verma,Kotak Mahindra,2024-08-02,12:27,30606.51,Swiggy,Mumbai,3,0,0,0,0
+TXN00399,Pooja Nair,SBI,2024-10-28,13:19,24334.66,Flipkart,Hyderabad,1,1,1,0,0
+TXN00324,Sneha Gupta,SBI,2024-08-29,08:23,25979.14,Unnamed Store,Mumbai,1,0,0,1,0
+TXN00520,Rohit Verma,ICICI Bank,2024-01-10,15:09,4040.4,Zomato,Ahmedabad,4,0,0,0,0
+TXN00917,Vikram Mehta,HDFC Bank,2024-04-18,10:29,12608.86,Swiggy,Mumbai,3,0,0,0,0
+TXN00923,Kavya Iyer,SBI,2024-05-22,11:20,5478.14,Flipkart,Mumbai,4,0,0,0,0
+TXN00006,Arjun Reddy,HDFC Bank,2024-10-09,04:18,194595.02,Foreign Gambling Site,Dubai,7,1,1,2,1
+TXN00732,Karan Kapoor,SBI,2024-10-06,15:01,10415.99,BigBazaar,Ahmedabad,3,0,1,0,0
+TXN00466,Meena Rao,ICICI Bank,2024-04-27,15:04,17142.78,BigBazaar,Mumbai,2,1,0,0,0
+TXN00098,Rahul Sharma,HDFC Bank,2024-08-28,18:33,8166.57,Unnamed Store,Mumbai,3,0,0,1,0
+TXN00267,Nisha Pillai,Axis Bank,2024-02-12,18:17,15228.31,Amazon,Kolkata,3,0,0,0,0
+TXN00358,Amit Kumar,ICICI Bank,2024-03-26,09:56,9131.7,Amazon,Mumbai,4,1,0,0,0
+TXN00869,Anita Das,Axis Bank,2024-08-11,10:32,6670.13,Amazon,Mumbai,2,0,1,0,0
+TXN00799,Pooja Nair,Axis Bank,2024-08-30,21:27,29504.72,Amazon,Chennai,3,1,0,0,0
+TXN00381,Sneha Gupta,PNB,2024-10-27,13:35,1263.6,BigBazaar,Ahmedabad,4,0,0,0,0
+TXN00632,Meena Rao,ICICI Bank,2024-10-23,08:10,10264.45,DMart,Hyderabad,3,0,0,0,0
+TXN00382,Meena Rao,ICICI Bank,2024-07-16,22:03,5890.27,DMart,Hyderabad,1,0,0,0,0
+TXN00491,Deepak Malhotra,PNB,2024-09-21,11:34,27645.23,Unnamed Store,Chennai,3,1,0,1,0
+TXN00119,Arjun Reddy,HDFC Bank,2024-11-06,18:51,19894.33,BigBazaar,Mumbai,4,0,0,0,0
+TXN00901,Rohit Verma,Kotak Mahindra,2024-06-07,19:27,14760.78,Swiggy,Delhi,2,0,0,0,0
+TXN00251,Sneha Gupta,PNB,2024-01-24,21:36,16538.27,Flipkart,Pune,3,0,0,0,0
+TXN00524,Anjali Singh,SBI,2024-07-16,12:49,31370.32,Unnamed Store,Kolkata,1,0,0,1,0
+TXN00010,Amit Kumar,Kotak Mahindra,2024-08-24,04:24,175170.55,Offshore Wire Transfer,Bangkok,8,1,1,2,1
+TXN00197,Kavya Iyer,HDFC Bank,2024-11-24,18:10,8921.06,Flipkart,Hyderabad,3,0,1,0,0
+TXN00604,Suresh Joshi,SBI,2024-09-24,09:07,26977.95,Flipkart,Bangalore,1,1,0,0,0
+TXN00082,Arjun Reddy,Kotak Mahindra,2024-07-27,12:31,24601.19,BigBazaar,Mumbai,2,0,0,0,0
+TXN00784,Rahul Sharma,ICICI Bank,2024-11-25,18:18,33948.01,Zomato,Ahmedabad,2,0,0,0,0
+TXN00588,Meena Rao,HDFC Bank,2024-08-01,08:11,5259.03,Zomato,Hyderabad,1,0,0,0,0
+TXN00798,Vikram Mehta,HDFC Bank,2024-11-28,19:09,28595.69,Unnamed Store,Chennai,1,0,0,1,0
+TXN00240,Sneha Gupta,HDFC Bank,2024-10-31,14:02,28369.84,Flipkart,Mumbai,2,0,0,0,0
+TXN00291,Deepak Malhotra,Axis Bank,2024-03-12,18:11,6664.23,BigBazaar,Bangalore,2,1,0,0,0
+TXN00212,Sneha Gupta,Axis Bank,2024-10-22,20:14,20512.83,BigBazaar,Mumbai,4,0,1,0,0
+TXN00718,Rahul Sharma,HDFC Bank,2024-01-15,22:05,27426.5,BigBazaar,Chennai,2,0,0,0,0
+TXN00360,Priya Patel,ICICI Bank,2024-03-23,12:46,898.71,Amazon,Delhi,3,0,0,0,0
+TXN00450,Meena Rao,HDFC Bank,2024-11-01,16:25,19462.64,Amazon,Bangalore,1,0,1,0,0
+TXN00228,Deepak Malhotra,PNB,2024-07-15,10:15,3519.4,Zomato,Ahmedabad,2,0,0,0,0
+TXN00951,Sneha Gupta,PNB,2024-09-11,17:50,13593.08,DMart,Chennai,2,0,0,0,0
+TXN00947,Deepak Malhotra,Axis Bank,2024-12-23,13:25,21456.16,Unnamed Store,Pune,1,0,0,1,0
+TXN00797,Anita Das,ICICI Bank,2024-03-10,19:00,24235.05,Unnamed Store,Kolkata,3,0,0,1,0
+TXN00502,Deepak Malhotra,SBI,2024-09-12,19:08,5275.36,Swiggy,Bangalore,1,0,0,0,0
+TXN00465,Meena Rao,Kotak Mahindra,2024-09-21,21:25,22936.11,BigBazaar,Delhi,3,1,0,0,0
+TXN00363,Kavya Iyer,ICICI Bank,2024-07-03,08:00,8466.68,BigBazaar,Kolkata,4,0,0,0,0
+TXN00469,Priya Patel,SBI,2024-03-26,10:16,20157.33,DMart,Bangalore,1,0,0,0,0
+TXN00936,Ritu Agarwal,PNB,2024-05-13,15:38,8788.36,Unnamed Store,Mumbai,3,0,0,1,0
+TXN00429,Kavya Iyer,PNB,2024-06-29,18:35,12216.22,DMart,Bangalore,2,0,0,0,0
+TXN00008,Kavya Iyer,HDFC Bank,2024-08-20,22:40,220340.13,Foreign Gambling Site,Dubai,10,1,1,2,1
+TXN00156,Karan Kapoor,PNB,2024-08-19,12:02,10738.15,Zomato,Mumbai,1,0,0,0,0
+TXN00542,Karan Kapoor,PNB,2024-06-21,22:42,23350.43,Flipkart,Delhi,2,1,1,0,0
+TXN00441,Anita Das,Kotak Mahindra,2024-10-03,08:46,8685.19,Swiggy,Pune,1,1,0,0,0
+TXN00483,Amit Kumar,HDFC Bank,2024-11-10,13:41,9355.6,BigBazaar,Delhi,1,1,0,0,0
+TXN00423,Rohit Verma,PNB,2024-07-20,14:13,26039.38,Zomato,Delhi,2,0,0,0,0
+TXN00779,Priya Patel,Axis Bank,2024-08-14,19:22,9255.79,Swiggy,Ahmedabad,1,1,0,0,0
+TXN00950,Suresh Joshi,PNB,2024-08-31,17:42,15661.85,Swiggy,Ahmedabad,1,0,0,0,0
+TXN00335,Rohit Verma,Kotak Mahindra,2024-03-02,09:34,3992.25,Swiggy,Bangalore,4,0,0,0,0
+TXN00577,Nisha Pillai,Kotak Mahindra,2024-01-22,19:56,22520.51,BigBazaar,Mumbai,1,1,0,0,0
+TXN00935,Ritu Agarwal,ICICI Bank,2024-11-29,20:24,27040.21,BigBazaar,Pune,4,0,0,0,0
+TXN00568,Ritu Agarwal,ICICI Bank,2024-10-24,13:34,31858.79,BigBazaar,Ahmedabad,2,0,0,0,0
+TXN00595,Meena Rao,Kotak Mahindra,2024-02-04,11:19,28250.31,DMart,Mumbai,2,0,0,0,0
+TXN00531,Deepak Malhotra,ICICI Bank,2024-12-22,12:31,25409.09,Swiggy,Mumbai,4,0,1,0,0
+TXN00582,Suresh Joshi,PNB,2024-12-27,19:28,22770.46,DMart,Bangalore,1,0,0,0,0
+TXN00708,Sunita Mishra,PNB,2024-01-30,13:09,28676.17,Unnamed Store,Mumbai,3,0,1,1,0
+TXN00449,Sunita Mishra,SBI,2024-12-12,10:56,18764.68,Unnamed Store,Kolkata,3,0,0,1,0
+TXN00454,Vivek Saxena,Axis Bank,2024-11-13,13:04,33313.59,DMart,Bangalore,2,0,0,0,0
+TXN00229,Karan Kapoor,ICICI Bank,2024-12-07,12:07,33400.41,Zomato,Mumbai,3,0,0,0,0
+TXN00353,Deepak Malhotra,Kotak Mahindra,2024-11-28,12:20,3715.92,Flipkart,Pune,2,1,0,0,0
+TXN00729,Anita Das,Axis Bank,2024-05-08,16:31,34565.81,Flipkart,Hyderabad,4,0,0,0,0
+TXN00213,Priya Patel,Kotak Mahindra,2024-12-24,16:07,16919.62,Flipkart,Kolkata,2,0,1,0,0
+TXN00080,Suresh Joshi,SBI,2024-11-08,09:42,29109.44,Swiggy,Hyderabad,2,1,1,0,0
+TXN00149,Rahul Sharma,Axis Bank,2024-07-22,10:55,26196.09,Swiggy,Bangalore,2,0,0,0,0
+TXN00303,Nisha Pillai,Axis Bank,2024-06-21,14:35,7780.48,Swiggy,Chennai,3,0,0,0,0
+TXN00629,Priya Patel,HDFC Bank,2024-09-26,19:54,19971.61,Amazon,Pune,4,0,0,0,0
+TXN00778,Sunita Mishra,SBI,2024-04-27,22:11,19537.48,Amazon,Ahmedabad,2,0,0,0,0
+TXN00507,Sunita Mishra,PNB,2024-03-26,09:40,15753.17,BigBazaar,Kolkata,3,1,0,0,0
+TXN00343,Anjali Singh,ICICI Bank,2024-07-29,22:56,9938.94,Amazon,Bangalore,2,0,0,0,0
+TXN00486,Rahul Sharma,SBI,2024-04-12,12:33,3222.13,Zomato,Kolkata,4,1,1,0,0
+TXN00712,Rohit Verma,HDFC Bank,2024-03-24,12:06,4965.84,Unnamed Store,Pune,4,1,0,1,0
+TXN00134,Meena Rao,Kotak Mahindra,2024-11-25,15:01,20859.58,BigBazaar,Chennai,1,0,0,0,0
+TXN00704,Vivek Saxena,SBI,2024-10-26,21:19,7134.16,Zomato,Kolkata,4,0,0,0,0
+TXN00312,Vikram Mehta,HDFC Bank,2024-06-10,10:50,31401.43,BigBazaar,Delhi,4,0,0,0,0
+TXN00723,Rajesh Bose,SBI,2024-09-09,13:07,17454.4,BigBazaar,Hyderabad,1,0,0,0,0
+TXN00630,Arjun Reddy,Axis Bank,2024-10-23,16:19,18189.84,Flipkart,Delhi,4,0,1,0,0
+TXN00001,Sneha Gupta,HDFC Bank,2024-02-22,01:43,197017.85,Offshore Wire Transfer,London,17,1,1,2,1
+TXN00317,Arjun Reddy,SBI,2024-12-25,08:25,1585.97,BigBazaar,Kolkata,3,1,0,0,0
+TXN00707,Arjun Reddy,Axis Bank,2024-11-17,09:43,34802.79,BigBazaar,Pune,4,1,0,0,0
+TXN00548,Vivek Saxena,SBI,2024-12-19,19:44,25752.46,Unnamed Store,Pune,4,0,0,1,0
+TXN00873,Suresh Joshi,Kotak Mahindra,2024-08-20,13:56,19900.17,Swiggy,Hyderabad,3,0,0,0,0
+TXN00533,Amit Kumar,Kotak Mahindra,2024-11-22,12:32,5594.89,BigBazaar,Hyderabad,3,1,0,0,0
+TXN00478,Sneha Gupta,Kotak Mahindra,2024-02-24,18:09,450.35,DMart,Chennai,3,1,0,0,0
+TXN00405,Rajesh Bose,ICICI Bank,2024-02-28,19:50,21873.36,Swiggy,Bangalore,1,0,0,0,0
+TXN00173,Sunita Mishra,PNB,2024-05-11,20:13,29122.64,Swiggy,Ahmedabad,1,0,0,0,0
+TXN00126,Ritu Agarwal,HDFC Bank,2024-10-02,08:08,5064.24,Swiggy,Hyderabad,1,0,0,0,0
+TXN00395,Priya Patel,SBI,2024-04-02,11:49,4980.31,Swiggy,Pune,4,0,0,0,0
+TXN00421,Priya Patel,SBI,2024-02-19,13:48,29582.25,DMart,Ahmedabad,3,1,0,0,0
+TXN00553,Suresh Joshi,HDFC Bank,2024-07-23,19:32,16759.74,BigBazaar,Mumbai,4,0,0,0,0
+TXN00904,Priya Patel,PNB,2024-03-30,18:26,3370.37,Zomato,Ahmedabad,3,1,1,0,0
+TXN00091,Anita Das,Kotak Mahindra,2024-08-07,16:19,8053.91,Swiggy,Kolkata,4,0,1,0,0
+TXN00940,Deepak Malhotra,PNB,2024-09-25,10:26,10921.89,Amazon,Ahmedabad,1,0,0,0,0
+TXN00182,Kavya Iyer,ICICI Bank,2024-07-23,08:47,30202.42,Zomato,Pune,1,0,0,0,0
+TXN00275,Anita Das,SBI,2024-06-12,17:18,10655.15,Swiggy,Chennai,3,0,0,0,0
+TXN00896,Deepak Malhotra,PNB,2024-06-18,13:36,18908.62,BigBazaar,Mumbai,1,0,0,0,0
+TXN00070,Deepak Malhotra,ICICI Bank,2024-11-14,20:34,23476.8,DMart,Kolkata,2,1,0,0,0
+TXN00292,Suresh Joshi,Axis Bank,2024-07-15,21:35,21755.47,Amazon,Pune,4,0,0,0,0
+TXN00132,Nisha Pillai,ICICI Bank,2024-10-28,09:20,27988.28,Flipkart,Mumbai,1,0,0,0,0
+TXN00301,Arjun Reddy,PNB,2024-05-22,15:44,14615.03,DMart,Delhi,1,1,1,0,0
+TXN00425,Rajesh Bose,SBI,2024-03-31,08:44,33742.15,BigBazaar,Mumbai,4,1,1,0,0
+TXN00327,Deepak Malhotra,HDFC Bank,2024-10-10,21:29,30719.3,Unnamed Store,Hyderabad,3,0,0,1,0
+TXN00145,Anjali Singh,ICICI Bank,2024-01-26,13:43,11044.98,Amazon,Delhi,2,0,1,0,0
+TXN00424,Karan Kapoor,SBI,2024-12-03,09:37,25144.22,Amazon,Kolkata,1,1,0,0,0
+TXN00581,Rohit Verma,Axis Bank,2024-02-16,15:16,14591.86,Flipkart,Mumbai,4,0,0,0,0
+TXN00136,Rohit Verma,HDFC Bank,2024-11-05,17:27,4591.47,Swiggy,Pune,3,1,1,0,0
+TXN00451,Nisha Pillai,Kotak Mahindra,2024-11-26,12:54,33154.88,DMart,Chennai,3,0,0,0,0
+TXN00165,Sneha Gupta,Kotak Mahindra,2024-07-11,21:09,27026.44,DMart,Mumbai,3,0,1,0,0
+TXN00029,Priya Patel,PNB,2024-06-22,23:51,178958.38,Unknown Crypto Exchange,Dubai,12,1,1,2,1
+TXN00774,Anita Das,PNB,2024-12-09,08:23,26238.82,Zomato,Mumbai,4,0,0,0,0
+TXN00194,Anita Das,HDFC Bank,2024-02-07,14:08,2488.03,BigBazaar,Ahmedabad,4,1,1,0,0
+TXN00389,Suresh Joshi,PNB,2024-07-17,08:47,5069.55,Zomato,Ahmedabad,3,1,0,0,0
+TXN00853,Sneha Gupta,Axis Bank,2024-12-14,11:58,13092.73,Amazon,Ahmedabad,2,0,0,0,0
+TXN00170,Anjali Singh,ICICI Bank,2024-08-18,16:56,15836.31,Unnamed Store,Bangalore,4,0,0,1,0
+TXN00706,Sunita Mishra,HDFC Bank,2024-01-15,22:07,22952.69,Swiggy,Hyderabad,2,1,0,0,0
+TXN00141,Kavya Iyer,ICICI Bank,2024-06-28,16:54,3805.3,Flipkart,Chennai,4,0,0,0,0
+TXN00174,Rohit Verma,Kotak Mahindra,2024-03-03,17:03,32919.86,Amazon,Kolkata,3,0,0,0,0
+TXN00007,Anita Das,ICICI Bank,2024-04-26,23:49,163357.19,Unknown Crypto Exchange,Dubai,16,1,1,2,1
+TXN00746,Karan Kapoor,PNB,2024-12-04,10:52,26767.79,DMart,Mumbai,2,1,0,0,0
+TXN00479,Ritu Agarwal,PNB,2024-04-14,12:26,20570.88,BigBazaar,Kolkata,3,0,0,0,0
+TXN00074,Vikram Mehta,HDFC Bank,2024-12-24,11:16,21822.48,Swiggy,Bangalore,1,0,0,0,0
+TXN00911,Rahul Sharma,Kotak Mahindra,2024-12-09,12:48,3697.93,BigBazaar,Delhi,4,0,0,0,0
+TXN00814,Suresh Joshi,SBI,2024-06-23,11:18,4479.82,Swiggy,Ahmedabad,1,0,0,0,0
+TXN00239,Nisha Pillai,Axis Bank,2024-05-21,21:12,18711.29,Flipkart,Chennai,4,0,0,0,0
+TXN00146,Amit Kumar,ICICI Bank,2024-04-20,14:48,15620.33,BigBazaar,Ahmedabad,4,1,0,0,0
+TXN00793,Arjun Reddy,Kotak Mahindra,2024-07-20,16:02,3045.58,Amazon,Mumbai,4,0,0,0,0
+TXN00235,Arjun Reddy,HDFC Bank,2024-10-04,17:03,26154.0,Amazon,Delhi,4,0,0,0,0
+TXN00221,Rajesh Bose,SBI,2024-12-14,08:49,22400.47,Swiggy,Delhi,3,1,0,0,0
+TXN00924,Priya Patel,Kotak Mahindra,2024-06-24,14:15,27753.94,Unnamed Store,Hyderabad,1,0,0,1,0
+TXN00501,Rohit Verma,Kotak Mahindra,2024-08-09,21:54,24073.21,DMart,Delhi,3,0,1,0,0
+TXN00133,Rahul Sharma,SBI,2024-08-17,10:49,9434.79,BigBazaar,Kolkata,1,0,0,0,0
+TXN00991,Rajesh Bose,PNB,2024-08-05,15:44,4947.71,Swiggy,Delhi,1,0,0,0,0
+TXN00775,Rohit Verma,Kotak Mahindra,2024-03-08,10:05,1631.15,Flipkart,Hyderabad,4,0,0,0,0
+TXN00186,Meena Rao,Kotak Mahindra,2024-12-13,12:10,34935.64,Amazon,Mumbai,4,0,1,0,0
+TXN00042,Nisha Pillai,PNB,2024-10-10,22:19,107016.01,Unknown Crypto Exchange,Bangkok,16,1,1,2,1
+TXN00697,Nisha Pillai,HDFC Bank,2024-01-29,14:38,10921.26,Swiggy,Chennai,3,0,0,0,0
+TXN00109,Suresh Joshi,PNB,2024-03-05,22:32,16659.57,Swiggy,Kolkata,2,1,0,0,0
+TXN00589,Anjali Singh,PNB,2024-06-02,18:20,10096.44,Swiggy,Bangalore,3,0,0,0,0
+TXN00057,Sneha Gupta,PNB,2024-12-22,16:18,31521.63,DMart,Hyderabad,4,0,0,0,0
+TXN00406,Sneha Gupta,Axis Bank,2024-05-31,11:10,7112.9,Unnamed Store,Hyderabad,2,0,0,1,0
+TXN00443,Vikram Mehta,ICICI Bank,2024-12-09,09:40,18083.54,Unnamed Store,Bangalore,1,0,0,1,0
+TXN00758,Anita Das,HDFC Bank,2024-07-15,18:19,29483.26,DMart,Mumbai,2,0,1,0,0
+TXN00998,Rohit Verma,PNB,2024-04-03,15:34,8904.69,Zomato,Kolkata,3,0,0,0,0
+TXN00025,Rahul Sharma,Kotak Mahindra,2024-12-28,04:40,158553.91,Unknown Crypto Exchange,London,7,1,1,2,1
+TXN00468,Suresh Joshi,PNB,2024-01-12,18:15,4144.19,Swiggy,Ahmedabad,2,0,0,0,0
+TXN00540,Priya Patel,PNB,2024-09-29,12:24,2649.51,Flipkart,Delhi,1,0,0,0,0
+TXN00532,Vikram Mehta,Kotak Mahindra,2024-10-10,13:10,6694.61,DMart,Pune,4,0,1,0,0
+TXN00619,Anita Das,Axis Bank,2024-11-21,18:51,11593.81,Amazon,Mumbai,2,0,1,0,0
+TXN00695,Suresh Joshi,SBI,2024-10-20,19:42,349.44,DMart,Pune,3,1,0,0,0
+TXN00927,Amit Kumar,SBI,2024-06-08,21:10,20823.55,Flipkart,Chennai,1,1,0,0,0
+TXN00339,Sneha Gupta,Axis Bank,2024-03-07,20:12,3746.38,Amazon,Bangalore,1,0,0,0,0
+TXN00052,Deepak Malhotra,HDFC Bank,2024-04-26,11:14,30079.05,Unnamed Store,Chennai,4,0,0,1,0
+TXN00508,Suresh Joshi,Axis Bank,2024-06-24,17:14,22168.31,Unnamed Store,Kolkata,1,0,0,1,0
+TXN00517,Sunita Mishra,Axis Bank,2024-10-07,20:23,10626.45,Unnamed Store,Kolkata,3,0,0,1,0
+TXN00921,Vivek Saxena,Axis Bank,2024-11-11,18:48,13506.52,BigBazaar,Chennai,1,0,0,0,0
+TXN00782,Sunita Mishra,PNB,2024-10-29,13:59,3481.82,Zomato,Mumbai,1,1,0,0,0
+TXN00265,Amit Kumar,Kotak Mahindra,2024-06-23,13:38,26141.89,Amazon,Mumbai,4,0,0,0,0
+TXN00818,Deepak Malhotra,HDFC Bank,2024-07-24,18:56,23174.13,BigBazaar,Bangalore,1,0,0,0,0
+TXN00711,Anjali Singh,Kotak Mahindra,2024-10-23,13:22,11426.72,Zomato,Hyderabad,3,0,1,0,0
+TXN00683,Priya Patel,ICICI Bank,2024-05-02,18:34,12951.87,BigBazaar,Delhi,2,0,0,0,0
+TXN00833,Nisha Pillai,ICICI Bank,2024-07-12,08:30,2551.25,Swiggy,Kolkata,3,1,0,0,0
+TXN00519,Amit Kumar,Axis Bank,2024-02-05,16:11,21961.24,Zomato,Hyderabad,3,1,0,0,0
+TXN00448,Kavya Iyer,PNB,2024-12-04,09:01,10687.0,Unnamed Store,Hyderabad,4,1,0,1,0
+TXN00019,Sneha Gupta,PNB,2024-07-10,23:48,106181.18,Offshore Wire Transfer,Hong Kong,8,1,1,2,1
+TXN00716,Rohit Verma,HDFC Bank,2024-01-22,20:12,14983.22,Amazon,Delhi,1,1,0,0,0
+TXN00484,Rajesh Bose,ICICI Bank,2024-01-06,17:12,24963.88,Unnamed Store,Mumbai,2,1,0,1,0
+TXN00569,Vikram Mehta,SBI,2024-02-04,19:35,10953.14,Swiggy,Bangalore,2,0,0,0,0
+TXN00434,Suresh Joshi,Kotak Mahindra,2024-10-28,19:34,2072.32,Flipkart,Hyderabad,4,0,0,0,0
+TXN00368,Meena Rao,Kotak Mahindra,2024-08-02,20:34,14606.74,BigBazaar,Chennai,1,1,1,0,0
+TXN00084,Pooja Nair,ICICI Bank,2024-06-18,13:22,23305.81,BigBazaar,Ahmedabad,3,1,1,0,0
+TXN00062,Pooja Nair,SBI,2024-12-22,08:33,23030.82,Unnamed Store,Delhi,4,0,0,1,0
+TXN00639,Ritu Agarwal,HDFC Bank,2024-09-29,20:40,10249.97,Swiggy,Ahmedabad,3,0,0,0,0
+TXN00273,Ritu Agarwal,ICICI Bank,2024-11-11,09:12,17051.25,Zomato,Pune,2,1,1,0,0
+TXN00286,Ritu Agarwal,Axis Bank,2024-12-26,17:13,1215.89,Swiggy,Chennai,4,1,0,0,0
+TXN00361,Amit Kumar,Kotak Mahindra,2024-11-30,09:10,32975.83,BigBazaar,Pune,4,0,0,0,0
+TXN00355,Rohit Verma,SBI,2024-06-11,19:58,25563.32,Unnamed Store,Kolkata,1,0,1,1,0
+TXN00457,Karan Kapoor,ICICI Bank,2024-10-02,15:12,27161.89,Flipkart,Delhi,1,0,0,0,0
+TXN00279,Karan Kapoor,Kotak Mahindra,2024-10-31,14:40,16877.37,BigBazaar,Kolkata,1,0,1,0,0
+TXN00013,Deepak Malhotra,PNB,2024-10-14,02:34,139064.63,Offshore Wire Transfer,London,17,1,1,2,1
+TXN00183,Karan Kapoor,Axis Bank,2024-05-16,10:51,11998.47,DMart,Ahmedabad,4,0,1,0,0
+TXN00369,Sunita Mishra,Kotak Mahindra,2024-10-19,15:57,30881.55,Amazon,Hyderabad,4,0,1,0,0
+TXN00882,Vikram Mehta,Kotak Mahindra,2024-09-17,10:37,10437.56,Flipkart,Pune,1,0,0,0,0
+TXN00616,Anita Das,SBI,2024-08-08,15:50,19268.63,Amazon,Kolkata,3,0,1,0,0
+TXN00224,Anjali Singh,HDFC Bank,2024-06-01,14:36,34901.58,Flipkart,Ahmedabad,3,0,0,0,0
+TXN00573,Sunita Mishra,SBI,2024-09-08,17:30,17680.9,DMart,Ahmedabad,3,0,0,0,0
+TXN00971,Rajesh Bose,SBI,2024-09-04,17:41,1001.33,Zomato,Ahmedabad,1,0,0,0,0
+TXN00654,Vikram Mehta,SBI,2024-11-25,08:19,1442.3,Swiggy,Chennai,4,0,1,0,0
+TXN00546,Vikram Mehta,ICICI Bank,2024-08-23,21:22,955.21,BigBazaar,Hyderabad,2,0,0,0,0
+TXN00583,Meena Rao,HDFC Bank,2024-06-20,14:36,18428.84,Swiggy,Bangalore,4,0,0,0,0
+TXN00634,Arjun Reddy,ICICI Bank,2024-11-05,12:11,4812.35,Unnamed Store,Hyderabad,3,0,0,1,0
+TXN00177,Anjali Singh,PNB,2024-01-23,16:40,23453.88,Amazon,Pune,1,1,0,0,0
+TXN00666,Nisha Pillai,Kotak Mahindra,2024-03-17,20:43,7830.81,Zomato,Chennai,1,0,0,0,0
+TXN00674,Suresh Joshi,SBI,2024-07-29,17:54,31047.03,Unnamed Store,Bangalore,2,0,0,1,0
+TXN00586,Sunita Mishra,Kotak Mahindra,2024-07-28,17:28,28299.42,Flipkart,Ahmedabad,2,1,0,0,0
+TXN00874,Priya Patel,Axis Bank,2024-04-19,08:15,7835.32,DMart,Chennai,2,1,1,0,0
+TXN00394,Vivek Saxena,Kotak Mahindra,2024-06-01,22:26,2678.31,BigBazaar,Chennai,1,1,1,0,0
+TXN00164,Anjali Singh,SBI,2024-02-09,20:18,12092.29,Flipkart,Ahmedabad,2,0,0,0,0
+TXN00249,Vikram Mehta,PNB,2024-10-09,20:20,4282.6,Flipkart,Ahmedabad,2,1,0,0,0
+TXN00635,Vivek Saxena,PNB,2024-09-05,15:11,5459.52,Unnamed Store,Pune,2,0,0,1,0
+TXN00886,Vikram Mehta,ICICI Bank,2024-02-13,14:08,14990.8,Unnamed Store,Bangalore,3,0,1,1,0
+TXN00670,Suresh Joshi,SBI,2024-07-11,13:57,27308.34,Amazon,Chennai,2,1,0,0,0
+TXN00376,Meena Rao,HDFC Bank,2024-04-26,20:08,11957.74,Zomato,Hyderabad,3,1,0,0,0
+TXN00413,Priya Patel,SBI,2024-07-13,22:49,3809.22,Unnamed Store,Ahmedabad,4,0,1,1,0
+TXN00075,Meena Rao,SBI,2024-10-23,19:01,21285.07,Unnamed Store,Delhi,2,0,0,1,0
+TXN00114,Rahul Sharma,HDFC Bank,2024-05-05,08:33,11488.24,Zomato,Hyderabad,3,1,0,0,0
+TXN00599,Suresh Joshi,Kotak Mahindra,2024-05-23,11:53,18848.81,Unnamed Store,Pune,3,0,0,1,0
+TXN00962,Priya Patel,ICICI Bank,2024-09-06,19:46,5514.04,Unnamed Store,Chennai,2,0,0,1,0
+TXN00391,Anjali Singh,PNB,2024-10-13,10:48,30702.02,Amazon,Hyderabad,4,0,0,0,0
+TXN00105,Arjun Reddy,Axis Bank,2024-11-02,15:32,29248.39,Swiggy,Chennai,2,1,0,0,0
+TXN00115,Ritu Agarwal,Kotak Mahindra,2024-12-15,10:15,23926.65,Flipkart,Bangalore,1,1,1,0,0
+TXN00418,Pooja Nair,Kotak Mahindra,2024-08-17,14:05,22587.44,Amazon,Chennai,4,1,1,0,0
+TXN00526,Kavya Iyer,ICICI Bank,2024-11-22,19:19,5719.68,DMart,Mumbai,1,0,0,0,0
+TXN00458,Arjun Reddy,PNB,2024-04-18,09:58,31044.49,Amazon,Delhi,1,1,1,0,0
+TXN00410,Suresh Joshi,Axis Bank,2024-07-02,09:57,25901.2,Amazon,Mumbai,2,0,0,0,0
+TXN00093,Anjali Singh,SBI,2024-08-28,09:18,6248.71,Amazon,Bangalore,4,1,1,0,0
+TXN00931,Nisha Pillai,SBI,2024-05-25,10:24,19439.25,Swiggy,Hyderabad,4,0,0,0,0
+TXN00090,Priya Patel,SBI,2024-08-01,17:38,5392.08,Amazon,Hyderabad,2,0,1,0,0
+TXN00337,Anita Das,HDFC Bank,2024-07-21,21:32,7682.72,Flipkart,Pune,1,0,0,0,0
+TXN00989,Pooja Nair,ICICI Bank,2024-02-09,09:46,22320.11,Swiggy,Hyderabad,3,0,0,0,0
+TXN00922,Sneha Gupta,ICICI Bank,2024-07-10,14:31,8426.59,BigBazaar,Chennai,1,0,0,0,0
+TXN00934,Kavya Iyer,PNB,2024-03-24,09:12,34565.77,Amazon,Kolkata,1,1,1,0,0
+TXN00606,Kavya Iyer,HDFC Bank,2024-05-21,12:34,20299.08,Zomato,Chennai,2,0,0,0,0
+TXN00594,Sneha Gupta,HDFC Bank,2024-01-24,20:21,16378.02,DMart,Delhi,2,1,0,0,0
+TXN00612,Sneha Gupta,Axis Bank,2024-11-11,18:16,11001.63,Swiggy,Ahmedabad,2,0,0,0,0
+TXN00095,Vikram Mehta,Axis Bank,2024-03-25,11:50,4194.22,Zomato,Bangalore,2,0,0,0,0
+TXN00012,Priya Patel,ICICI Bank,2024-12-01,00:31,127238.78,Anonymous Merchant,London,9,1,1,2,1
+TXN00397,Anjali Singh,Kotak Mahindra,2024-08-07,15:30,26804.03,Flipkart,Delhi,4,1,0,0,0
+TXN00534,Deepak Malhotra,PNB,2024-12-03,08:34,6656.59,Unnamed Store,Pune,2,0,0,1,0
+TXN00044,Vikram Mehta,PNB,2024-09-07,23:16,115290.46,Anonymous Merchant,Bangkok,14,1,1,2,1
+TXN00043,Sneha Gupta,SBI,2024-05-24,00:38,99215.51,Offshore Wire Transfer,Bangkok,10,1,1,2,1
+TXN00330,Meena Rao,PNB,2024-02-23,22:13,29417.18,Zomato,Mumbai,1,1,0,0,0
+TXN00168,Vivek Saxena,Axis Bank,2024-11-05,12:08,16266.46,BigBazaar,Kolkata,4,0,0,0,0
+TXN00498,Rajesh Bose,Axis Bank,2024-02-21,08:20,11184.66,DMart,Mumbai,2,1,1,0,0
+TXN00877,Vivek Saxena,ICICI Bank,2024-05-14,08:46,1727.89,Flipkart,Chennai,3,0,0,0,0
+TXN00598,Sunita Mishra,SBI,2024-06-02,22:36,22026.58,Swiggy,Pune,4,0,1,0,0
+TXN00757,Sunita Mishra,PNB,2024-01-11,12:41,8772.86,Zomato,Bangalore,4,0,0,0,0
+TXN00101,Nisha Pillai,HDFC Bank,2024-01-01,13:42,16027.94,Zomato,Hyderabad,1,1,1,0,0
+TXN00427,Pooja Nair,ICICI Bank,2024-11-04,13:44,14045.88,Swiggy,Hyderabad,2,0,0,0,0
+TXN00179,Sneha Gupta,Kotak Mahindra,2024-12-16,13:29,25784.51,Amazon,Bangalore,3,0,0,0,0
+TXN00445,Suresh Joshi,HDFC Bank,2024-04-26,08:58,3245.73,Unnamed Store,Bangalore,3,0,1,1,0
+TXN00417,Sunita Mishra,Axis Bank,2024-01-26,09:32,30455.66,Zomato,Ahmedabad,2,0,0,0,0
+TXN00871,Meena Rao,HDFC Bank,2024-06-25,18:12,18215.28,Amazon,Bangalore,2,0,0,0,0
+TXN00883,Sunita Mishra,SBI,2024-07-17,20:48,25509.99,Unnamed Store,Ahmedabad,1,0,1,1,0
+TXN00681,Suresh Joshi,Kotak Mahindra,2024-06-20,14:47,1338.45,DMart,Hyderabad,2,0,1,0,0
+TXN00178,Deepak Malhotra,ICICI Bank,2024-12-02,08:40,9027.03,Unnamed Store,Pune,1,0,0,1,0
+TXN00396,Amit Kumar,Axis Bank,2024-05-20,10:13,11775.5,DMart,Pune,1,0,0,0,0
+TXN00912,Rahul Sharma,PNB,2024-04-20,15:28,9709.18,Flipkart,Pune,2,0,1,0,0
+TXN00794,Amit Kumar,Axis Bank,2024-05-15,12:21,30711.09,BigBazaar,Pune,4,1,1,0,0
+TXN00961,Sneha Gupta,ICICI Bank,2024-12-26,19:24,34890.33,DMart,Ahmedabad,2,1,0,0,0
+TXN00685,Ritu Agarwal,ICICI Bank,2024-12-29,13:34,2095.21,Swiggy,Pune,4,0,0,0,0
+TXN00384,Rajesh Bose,HDFC Bank,2024-01-05,20:14,30289.12,Swiggy,Mumbai,2,0,1,0,0
+TXN00957,Vivek Saxena,SBI,2024-01-01,09:19,26112.7,Flipkart,Pune,3,1,1,0,0
+TXN00752,Rahul Sharma,HDFC Bank,2024-07-05,09:42,30113.52,BigBazaar,Pune,3,0,0,0,0
+TXN00258,Ritu Agarwal,SBI,2024-05-16,09:50,3924.17,Flipkart,Bangalore,2,0,0,0,0
+TXN00539,Meena Rao,Kotak Mahindra,2024-05-16,22:33,26073.01,Unnamed Store,Kolkata,3,0,1,1,0
+TXN00336,Meena Rao,SBI,2024-12-17,15:19,15926.71,Unnamed Store,Hyderabad,1,0,0,1,0
+TXN00016,Ritu Agarwal,Kotak Mahindra,2024-05-08,03:35,58023.18,Foreign Gambling Site,Hong Kong,14,1,1,2,1
+TXN00325,Deepak Malhotra,SBI,2024-05-07,21:26,6427.84,BigBazaar,Mumbai,4,0,0,0,0
+TXN00759,Meena Rao,PNB,2024-07-20,21:59,4447.47,Unnamed Store,Chennai,4,1,0,1,0
+TXN00223,Kavya Iyer,PNB,2024-08-01,20:56,2258.86,DMart,Delhi,2,0,0,0,0
+TXN00180,Sunita Mishra,PNB,2024-04-13,10:02,6543.27,DMart,Delhi,4,0,0,0,0
+TXN00984,Sneha Gupta,SBI,2024-06-27,22:44,18521.35,BigBazaar,Hyderabad,4,0,1,0,0
+TXN00023,Rajesh Bose,Kotak Mahindra,2024-06-08,01:25,131743.28,Offshore Wire Transfer,Hong Kong,17,1,1,2,1
+TXN00357,Anjali Singh,PNB,2024-05-07,09:44,31009.14,Swiggy,Pune,1,0,0,0,0
+TXN00667,Sunita Mishra,Axis Bank,2024-08-10,18:16,6336.07,Amazon,Mumbai,3,0,0,0,0
+TXN00862,Rahul Sharma,Kotak Mahindra,2024-08-30,22:15,27943.29,Unnamed Store,Pune,3,0,0,1,0
+TXN00341,Karan Kapoor,SBI,2024-03-27,21:59,3400.86,Amazon,Pune,1,1,0,0,0
+TXN00432,Rohit Verma,HDFC Bank,2024-02-22,12:39,24232.7,Unnamed Store,Chennai,1,0,0,1,0
+TXN00552,Deepak Malhotra,Axis Bank,2024-03-16,17:08,26398.84,Flipkart,Delhi,4,0,0,0,0
+TXN00834,Anita Das,SBI,2024-06-15,16:05,26715.9,Unnamed Store,Ahmedabad,4,1,0,1,0
+TXN00204,Anjali Singh,Axis Bank,2024-07-20,15:32,34859.74,Zomato,Ahmedabad,4,0,0,0,0
+TXN00631,Anita Das,HDFC Bank,2024-06-18,16:26,31644.77,Swiggy,Mumbai,4,1,1,0,0
+TXN00094,Priya Patel,SBI,2024-12-04,12:51,10226.05,Amazon,Ahmedabad,2,0,1,0,0
+TXN00559,Kavya Iyer,HDFC Bank,2024-06-18,20:13,12145.84,Zomato,Delhi,4,1,0,0,0
+TXN00069,Ritu Agarwal,Kotak Mahindra,2024-09-05,16:01,26213.55,Swiggy,Chennai,2,0,0,0,0
+TXN00623,Meena Rao,HDFC Bank,2024-12-30,21:24,30171.42,Flipkart,Mumbai,4,1,0,0,0
+TXN00285,Anjali Singh,Kotak Mahindra,2024-04-05,16:40,5772.72,Swiggy,Kolkata,2,1,0,0,0
+TXN00845,Rohit Verma,ICICI Bank,2024-10-03,15:10,19974.95,Unnamed Store,Delhi,2,0,0,1,0
+TXN00435,Anita Das,SBI,2024-03-29,11:47,27209.91,Swiggy,Hyderabad,2,0,0,0,0
+TXN00154,Rohit Verma,ICICI Bank,2024-08-25,17:48,7065.06,Unnamed Store,Bangalore,1,0,0,1,0
+TXN00076,Kavya Iyer,Kotak Mahindra,2024-12-19,14:53,23771.69,DMart,Kolkata,2,0,1,0,0
+TXN00731,Anjali Singh,Axis Bank,2024-09-09,13:50,21239.52,Zomato,Bangalore,1,0,1,0,0
+TXN00447,Nisha Pillai,HDFC Bank,2024-09-14,17:06,22521.51,Unnamed Store,Delhi,1,0,0,1,0
+TXN00189,Amit Kumar,Kotak Mahindra,2024-01-14,13:47,4991.79,Zomato,Kolkata,3,0,0,0,0
+TXN00272,Deepak Malhotra,SBI,2024-08-10,12:17,5031.63,Swiggy,Hyderabad,2,0,0,0,0
+TXN00237,Deepak Malhotra,Axis Bank,2024-10-02,18:25,2992.7,DMart,Bangalore,3,0,0,0,0
+TXN00488,Anita Das,SBI,2024-02-24,14:35,16025.61,Zomato,Mumbai,2,1,1,0,0
+TXN00118,Deepak Malhotra,Axis Bank,2024-12-03,14:25,3911.53,BigBazaar,Pune,3,0,0,0,0
+TXN00944,Sneha Gupta,ICICI Bank,2024-02-01,08:17,2436.33,Swiggy,Chennai,4,0,0,0,0
+TXN00513,Kavya Iyer,Axis Bank,2024-08-31,10:29,22001.53,Amazon,Bangalore,1,0,0,0,0
+TXN00826,Rohit Verma,PNB,2024-08-31,14:13,15014.09,Amazon,Delhi,1,1,0,0,0
+TXN00592,Rajesh Bose,HDFC Bank,2024-10-21,19:39,17031.47,Swiggy,Hyderabad,3,0,1,0,0
+TXN00127,Deepak Malhotra,Axis Bank,2024-09-07,19:39,13111.2,BigBazaar,Kolkata,2,1,0,0,0
+TXN00117,Nisha Pillai,SBI,2024-06-03,13:12,2770.39,DMart,Hyderabad,4,0,0,0,0
+TXN00474,Anita Das,Kotak Mahindra,2024-10-03,20:52,1558.47,Amazon,Delhi,4,0,1,0,0
+TXN00694,Meena Rao,Axis Bank,2024-03-15,10:29,18987.36,Amazon,Hyderabad,1,1,0,0,0
+TXN00058,Nisha Pillai,SBI,2024-10-07,18:53,6876.04,DMart,Kolkata,2,0,0,0,0
+TXN00864,Amit Kumar,HDFC Bank,2024-08-14,14:03,32101.66,Unnamed Store,Pune,1,0,0,1,0
+TXN00913,Priya Patel,PNB,2024-11-02,18:00,28440.61,Swiggy,Delhi,3,1,0,0,0
+TXN00370,Rajesh Bose,Kotak Mahindra,2024-04-18,17:51,23778.21,Amazon,Bangalore,4,0,0,0,0
+TXN00269,Rahul Sharma,ICICI Bank,2024-08-08,20:28,15676.81,Amazon,Hyderabad,2,0,0,0,0
+TXN00047,Nisha Pillai,HDFC Bank,2024-07-08,23:37,67934.15,Unknown Crypto Exchange,London,19,1,1,2,1
+TXN00350,Anjali Singh,Axis Bank,2024-09-01,08:00,1521.14,BigBazaar,Chennai,2,0,1,0,0
+TXN00196,Priya Patel,HDFC Bank,2024-09-22,12:57,18229.95,Flipkart,Bangalore,3,0,0,0,0
+TXN01000,Vikram Mehta,HDFC Bank,2024-03-23,08:42,6796.93,Swiggy,Bangalore,4,0,0,0,0
+TXN00835,Anita Das,PNB,2024-05-22,14:41,21900.91,Swiggy,Chennai,3,0,0,0,0
+TXN00737,Vivek Saxena,HDFC Bank,2024-02-19,13:27,4661.29,Unnamed Store,Pune,1,0,0,1,0
+TXN00264,Vivek Saxena,SBI,2024-12-18,21:46,19921.02,DMart,Kolkata,3,1,0,0,0
+TXN00444,Vikram Mehta,PNB,2024-01-13,09:29,14962.49,BigBazaar,Chennai,4,0,0,0,0
+TXN00676,Pooja Nair,SBI,2024-01-23,17:02,11589.9,BigBazaar,Chennai,2,0,0,0,0
+TXN00305,Karan Kapoor,HDFC Bank,2024-04-13,21:44,4523.45,Swiggy,Bangalore,4,0,0,0,0
+TXN00342,Vivek Saxena,Axis Bank,2024-06-30,14:13,28794.65,Amazon,Ahmedabad,4,1,0,0,0
+TXN00967,Rohit Verma,Axis Bank,2024-04-01,14:03,33273.86,Amazon,Bangalore,1,0,0,0,0
+TXN00150,Priya Patel,Axis Bank,2024-07-26,22:45,852.21,Unnamed Store,Delhi,3,1,1,1,0
+TXN00125,Pooja Nair,Axis Bank,2024-12-24,22:19,1070.86,BigBazaar,Pune,2,0,0,0,0
+TXN00787,Sunita Mishra,Axis Bank,2024-07-07,22:32,25808.95,DMart,Hyderabad,2,0,0,0,0
+TXN00051,Anjali Singh,PNB,2024-12-25,20:06,32372.16,Unnamed Store,Kolkata,2,0,0,1,0
+TXN00354,Anjali Singh,PNB,2024-12-18,19:18,33912.25,Flipkart,Pune,2,1,0,0,0
+TXN00928,Vikram Mehta,SBI,2024-05-19,17:55,14955.78,Zomato,Chennai,3,1,0,0,0
+TXN00143,Arjun Reddy,HDFC Bank,2024-03-14,19:36,6478.48,Zomato,Hyderabad,3,0,0,0,0
+TXN00471,Sunita Mishra,Axis Bank,2024-12-03,21:32,6135.72,BigBazaar,Kolkata,2,0,1,0,0
+TXN00400,Anjali Singh,HDFC Bank,2024-06-24,12:57,28869.77,Swiggy,Hyderabad,3,1,0,0,0
+TXN00626,Sunita Mishra,PNB,2024-08-05,10:39,15398.38,Flipkart,Delhi,4,1,1,0,0
+TXN00321,Rahul Sharma,SBI,2024-03-01,13:49,17475.17,Flipkart,Hyderabad,3,0,0,0,0
+TXN00020,Anjali Singh,Kotak Mahindra,2024-01-10,04:07,240467.45,Anonymous Merchant,Dubai,13,1,1,2,1
+TXN00810,Amit Kumar,ICICI Bank,2024-06-23,17:50,15185.59,Amazon,Chennai,2,1,0,0,0
+TXN00791,Rohit Verma,SBI,2024-01-25,12:35,24014.13,BigBazaar,Chennai,4,0,1,0,0
+TXN00809,Pooja Nair,SBI,2024-09-14,08:02,19577.7,Zomato,Pune,3,0,0,0,0
+TXN00408,Sneha Gupta,Kotak Mahindra,2024-11-25,10:14,23481.96,Unnamed Store,Delhi,1,0,0,1,0
+TXN00538,Anita Das,PNB,2024-11-23,22:03,2666.41,DMart,Chennai,4,0,0,0,0
+TXN00621,Suresh Joshi,ICICI Bank,2024-01-05,22:39,20045.62,Swiggy,Hyderabad,3,0,1,0,0
+TXN00039,Suresh Joshi,SBI,2024-06-10,01:59,99450.98,Anonymous Merchant,Bangkok,13,1,1,2,1
+TXN00176,Rajesh Bose,Kotak Mahindra,2024-10-19,10:26,8619.45,Swiggy,Hyderabad,1,0,0,0,0
+TXN00246,Priya Patel,Kotak Mahindra,2024-06-18,14:41,14561.18,Swiggy,Bangalore,2,0,0,0,0
+TXN00829,Karan Kapoor,SBI,2024-01-17,16:47,33887.51,DMart,Delhi,2,1,0,0,0
+TXN00668,Suresh Joshi,Kotak Mahindra,2024-03-31,20:10,28219.35,Amazon,Ahmedabad,1,0,1,0,0
+TXN00755,Deepak Malhotra,PNB,2024-04-19,22:17,26089.77,Flipkart,Kolkata,2,0,0,0,0
+TXN00859,Rajesh Bose,Axis Bank,2024-08-03,16:34,17446.0,DMart,Mumbai,2,0,0,0,0
+TXN00155,Vivek Saxena,Kotak Mahindra,2024-02-04,22:30,15821.9,Unnamed Store,Pune,3,0,0,1,0
+TXN00288,Karan Kapoor,HDFC Bank,2024-07-19,21:37,9329.9,BigBazaar,Ahmedabad,3,1,1,0,0
+TXN00603,Rajesh Bose,HDFC Bank,2024-06-07,22:49,28006.08,Flipkart,Bangalore,3,1,1,0,0
+TXN00570,Nisha Pillai,PNB,2024-07-29,13:19,4319.88,DMart,Bangalore,1,0,0,0,0
+TXN00744,Suresh Joshi,ICICI Bank,2024-11-29,20:52,2540.99,Swiggy,Ahmedabad,2,0,0,0,0
+TXN00018,Sneha Gupta,ICICI Bank,2024-04-01,03:32,134126.88,Anonymous Merchant,Dubai,14,1,1,2,1
+TXN00128,Ritu Agarwal,ICICI Bank,2024-02-20,13:43,1338.53,Swiggy,Chennai,4,0,0,0,0
+TXN00323,Priya Patel,Axis Bank,2024-12-11,10:46,30105.72,Flipkart,Pune,3,0,1,0,0
+TXN00256,Meena Rao,HDFC Bank,2024-09-29,18:35,21700.67,DMart,Ahmedabad,4,0,0,0,0
+TXN00658,Kavya Iyer,HDFC Bank,2024-10-31,10:51,16075.22,Unnamed Store,Delhi,1,0,0,1,0
+TXN00965,Vivek Saxena,HDFC Bank,2024-12-22,19:30,29773.38,Swiggy,Hyderabad,2,0,0,0,0
+TXN00191,Sunita Mishra,SBI,2024-12-15,21:54,4467.78,Swiggy,Delhi,2,1,0,0,0
+TXN00116,Sunita Mishra,Kotak Mahindra,2024-05-27,15:43,5180.5,Swiggy,Hyderabad,3,0,0,0,0
+TXN00617,Ritu Agarwal,Kotak Mahindra,2024-10-30,16:38,27598.97,Flipkart,Chennai,1,1,0,0,0
+TXN00607,Suresh Joshi,Axis Bank,2024-11-14,12:35,23555.12,Flipkart,Bangalore,3,0,0,0,0
+TXN00181,Vikram Mehta,HDFC Bank,2024-11-27,12:12,11182.73,Unnamed Store,Kolkata,4,0,0,1,0
+TXN00302,Meena Rao,Axis Bank,2024-02-02,13:50,33268.84,Unnamed Store,Mumbai,1,1,0,1,0
+TXN00760,Arjun Reddy,ICICI Bank,2024-11-19,21:20,3340.71,Zomato,Chennai,2,0,0,0,0
+TXN00713,Vikram Mehta,SBI,2024-02-09,21:07,17717.72,Unnamed Store,Chennai,1,1,0,1,0
+TXN00724,Deepak Malhotra,ICICI Bank,2024-07-27,19:18,16101.71,DMart,Hyderabad,4,0,1,0,0
+TXN00686,Nisha Pillai,ICICI Bank,2024-07-19,13:57,15928.85,Flipkart,Delhi,4,0,0,0,0
+TXN00980,Ritu Agarwal,PNB,2024-10-15,11:42,5184.89,DMart,Delhi,3,0,0,0,0
+TXN00518,Vikram Mehta,Axis Bank,2024-04-22,14:16,30899.24,Flipkart,Kolkata,2,1,0,0,0
+TXN00985,Vivek Saxena,ICICI Bank,2024-04-02,17:22,19393.67,Amazon,Delhi,2,0,0,0,0
+TXN00046,Rohit Verma,PNB,2024-12-27,01:27,245858.58,Foreign Gambling Site,Bangkok,14,1,1,2,1
+TXN00910,Amit Kumar,HDFC Bank,2024-03-28,11:53,19285.31,Flipkart,Ahmedabad,4,0,0,0,0
+TXN00158,Priya Patel,Axis Bank,2024-08-18,17:06,31834.94,Zomato,Chennai,4,0,0,0,0
+TXN00852,Karan Kapoor,PNB,2024-12-22,21:00,4494.86,Unnamed Store,Kolkata,3,1,0,1,0
+TXN00172,Suresh Joshi,HDFC Bank,2024-05-26,18:58,29403.33,Unnamed Store,Pune,2,0,0,1,0
+TXN00017,Rahul Sharma,PNB,2024-11-24,23:21,192747.97,Anonymous Merchant,Hong Kong,18,1,1,2,1
+TXN00512,Amit Kumar,HDFC Bank,2024-05-06,10:47,9333.34,DMart,Delhi,4,0,0,0,0
+TXN00049,Meena Rao,SBI,2024-10-13,23:56,184823.67,Anonymous Merchant,Dubai,18,1,1,2,1
+TXN00972,Ritu Agarwal,ICICI Bank,2024-07-20,09:35,20085.52,Amazon,Pune,2,1,0,0,0
+TXN00941,Kavya Iyer,PNB,2024-04-03,10:32,15197.05,Flipkart,Pune,2,0,0,0,0
+TXN00516,Arjun Reddy,SBI,2024-01-05,08:44,10764.34,Zomato,Bangalore,3,1,1,0,0
+TXN00953,Pooja Nair,SBI,2024-06-16,20:57,7565.1,Amazon,Delhi,4,0,0,0,0
+TXN00481,Sneha Gupta,PNB,2024-10-08,20:39,8196.04,Amazon,Bangalore,2,1,0,0,0
+TXN00284,Karan Kapoor,ICICI Bank,2024-05-04,08:33,2537.67,Amazon,Delhi,3,0,0,0,0
+TXN00719,Rohit Verma,PNB,2024-10-18,17:04,32976.21,Zomato,Pune,2,0,1,0,0
+TXN00878,Anjali Singh,ICICI Bank,2024-02-21,11:01,29694.19,Flipkart,Bangalore,1,0,0,0,0
+TXN00226,Vikram Mehta,HDFC Bank,2024-06-21,19:50,11707.81,DMart,Ahmedabad,3,0,0,0,0
+TXN00027,Sunita Mishra,SBI,2024-08-30,23:51,155542.96,Foreign Gambling Site,Hong Kong,9,1,1,2,1
+TXN00955,Sunita Mishra,HDFC Bank,2024-07-14,13:41,27884.81,BigBazaar,Chennai,1,0,0,0,0
+TXN00438,Anita Das,PNB,2024-09-23,20:04,10680.19,Amazon,Pune,3,0,0,0,0
+TXN00952,Amit Kumar,ICICI Bank,2024-12-05,16:34,29165.92,Flipkart,Ahmedabad,4,0,0,0,0
+TXN00365,Kavya Iyer,HDFC Bank,2024-12-04,09:16,16680.26,Unnamed Store,Hyderabad,4,1,0,1,0
+TXN00230,Karan Kapoor,ICICI Bank,2024-11-10,18:14,5758.15,DMart,Hyderabad,1,0,0,0,0
+TXN00038,Vivek Saxena,Kotak Mahindra,2024-05-13,00:13,53147.04,Anonymous Merchant,New York,20,1,1,2,1
+TXN00966,Kavya Iyer,SBI,2024-02-22,20:43,7499.87,DMart,Chennai,1,0,1,0,0
+TXN00375,Anita Das,PNB,2024-05-17,08:57,24339.41,Zomato,Kolkata,2,0,0,0,0
+TXN00470,Anjali Singh,Kotak Mahindra,2024-08-17,17:38,33546.69,DMart,Mumbai,3,0,0,0,0
+TXN00968,Sneha Gupta,Kotak Mahindra,2024-03-01,17:15,22823.4,Flipkart,Kolkata,4,0,0,0,0
+TXN00851,Rahul Sharma,PNB,2024-10-02,16:01,6239.05,Unnamed Store,Ahmedabad,4,0,0,1,0
+TXN00705,Sunita Mishra,Kotak Mahindra,2024-06-02,11:40,25946.99,Unnamed Store,Mumbai,1,0,0,1,0
+TXN00842,Deepak Malhotra,HDFC Bank,2024-04-13,14:15,11337.44,Zomato,Pune,4,0,0,0,0
+TXN00195,Suresh Joshi,PNB,2024-09-14,15:58,2780.94,Flipkart,Pune,2,0,0,0,0
+TXN00855,Arjun Reddy,Axis Bank,2024-05-22,19:36,31676.86,Amazon,Chennai,2,1,0,0,0
+TXN00865,Kavya Iyer,Kotak Mahindra,2024-07-14,09:25,21991.25,DMart,Delhi,1,0,0,0,0
+TXN00504,Anjali Singh,HDFC Bank,2024-05-13,12:23,7698.26,Unnamed Store,Ahmedabad,1,1,0,1,0
+TXN00970,Arjun Reddy,PNB,2024-09-07,13:41,22931.2,Amazon,Mumbai,1,0,0,0,0
+TXN00831,Rajesh Bose,SBI,2024-03-14,12:09,4297.43,Zomato,Pune,3,1,0,0,0
+TXN00580,Rajesh Bose,SBI,2024-12-22,18:34,16332.55,Amazon,Ahmedabad,1,0,1,0,0
+TXN00969,Deepak Malhotra,Axis Bank,2024-11-28,17:24,10733.6,DMart,Bangalore,4,0,0,0,0
+TXN00163,Suresh Joshi,SBI,2024-07-04,21:19,23520.05,DMart,Delhi,4,0,0,0,0
+TXN00909,Vikram Mehta,Axis Bank,2024-09-05,12:29,1514.56,DMart,Delhi,2,0,0,0,0
+TXN00153,Anjali Singh,HDFC Bank,2024-04-30,09:06,17964.82,Unnamed Store,Chennai,3,0,0,1,0
+TXN00802,Ritu Agarwal,Axis Bank,2024-09-19,19:37,29731.85,Amazon,Hyderabad,4,1,0,0,0
+TXN00994,Sneha Gupta,ICICI Bank,2024-05-15,11:13,32008.77,Zomato,Delhi,3,1,0,0,0
+TXN00756,Karan Kapoor,Axis Bank,2024-10-06,17:27,9049.85,Swiggy,Mumbai,3,0,0,0,0
+TXN00112,Nisha Pillai,Axis Bank,2024-11-19,18:43,33404.06,Unnamed Store,Ahmedabad,1,0,0,1,0
+TXN00227,Kavya Iyer,Kotak Mahindra,2024-06-16,11:05,23669.16,BigBazaar,Bangalore,4,1,1,0,0
+TXN00689,Rahul Sharma,ICICI Bank,2024-06-24,08:41,6779.31,Unnamed Store,Chennai,3,1,1,1,0
+TXN00104,Rahul Sharma,Kotak Mahindra,2024-05-29,11:32,14398.08,Swiggy,Delhi,1,0,0,0,0
+TXN00422,Pooja Nair,HDFC Bank,2024-03-25,21:31,12079.23,BigBazaar,Hyderabad,3,0,0,0,0
+TXN00420,Rahul Sharma,HDFC Bank,2024-07-05,17:52,27754.06,BigBazaar,Hyderabad,2,1,0,0,0
+TXN00751,Priya Patel,SBI,2024-09-05,10:50,5745.68,Zomato,Mumbai,3,0,0,0,0
+TXN00587,Amit Kumar,Kotak Mahindra,2024-03-16,11:03,21083.55,BigBazaar,Hyderabad,2,0,0,0,0
+TXN00781,Anjali Singh,PNB,2024-02-09,12:15,17904.07,BigBazaar,Chennai,1,0,0,0,0
+TXN00673,Priya Patel,PNB,2024-03-28,12:48,19989.57,Amazon,Bangalore,4,1,0,0,0
+TXN00120,Meena Rao,SBI,2024-06-07,17:50,22354.3,DMart,Hyderabad,2,0,0,0,0
+TXN00054,Deepak Malhotra,PNB,2024-10-24,16:16,34344.01,Amazon,Pune,1,0,0,0,0
+TXN00152,Sneha Gupta,SBI,2024-06-19,14:49,15361.54,Swiggy,Delhi,3,0,0,0,0
+TXN00404,Deepak Malhotra,HDFC Bank,2024-12-04,15:06,19245.43,Flipkart,Bangalore,1,0,0,0,0
+TXN00946,Arjun Reddy,Axis Bank,2024-05-02,13:23,16668.47,Zomato,Kolkata,3,0,0,0,0
+TXN00208,Nisha Pillai,ICICI Bank,2024-06-22,17:35,28920.83,Flipkart,Delhi,1,1,0,0,0
+TXN00659,Anita Das,SBI,2024-12-16,11:36,2396.23,Zomato,Kolkata,4,0,0,0,0
+TXN00844,Ritu Agarwal,HDFC Bank,2024-10-11,14:41,17049.17,Amazon,Chennai,3,0,0,0,0
+TXN00763,Anjali Singh,PNB,2024-06-09,18:36,15630.49,Amazon,Bangalore,4,0,0,0,0
+TXN00009,Meena Rao,SBI,2024-12-15,01:41,120887.1,Anonymous Merchant,Bangkok,17,1,1,2,1
+TXN00808,Amit Kumar,PNB,2024-09-09,10:19,17004.56,Flipkart,Chennai,4,0,0,0,0
+TXN00037,Anjali Singh,HDFC Bank,2024-10-18,23:15,166982.2,Foreign Gambling Site,London,7,1,1,2,1
+TXN00453,Nisha Pillai,Axis Bank,2024-04-11,09:46,22634.67,DMart,Hyderabad,1,0,0,0,0
+TXN00652,Amit Kumar,ICICI Bank,2024-03-31,13:35,18805.0,Unnamed Store,Delhi,4,0,0,1,0
+TXN00254,Meena Rao,SBI,2024-12-08,16:03,5070.56,Flipkart,Ahmedabad,1,0,0,0,0
+TXN00304,Vivek Saxena,SBI,2024-11-16,15:50,19901.75,DMart,Pune,1,0,0,0,0
+TXN00747,Karan Kapoor,ICICI Bank,2024-08-24,16:09,32813.27,BigBazaar,Kolkata,1,0,0,0,0
+TXN00572,Anita Das,Kotak Mahindra,2024-07-02,17:05,9486.82,BigBazaar,Chennai,2,0,0,0,0
+TXN00624,Deepak Malhotra,Axis Bank,2024-07-15,11:53,15344.61,Swiggy,Bangalore,2,0,1,0,0
+TXN00733,Priya Patel,Axis Bank,2024-08-23,09:02,30828.37,Swiggy,Kolkata,3,1,0,0,0
+TXN00892,Meena Rao,Axis Bank,2024-04-26,21:46,33114.36,Swiggy,Mumbai,2,1,0,0,0
+TXN00263,Priya Patel,SBI,2024-06-02,13:10,32521.07,Flipkart,Mumbai,2,1,0,0,0
+TXN00611,Vikram Mehta,PNB,2024-12-23,20:29,26592.41,Unnamed Store,Delhi,4,0,0,1,0
+TXN00298,Vikram Mehta,SBI,2024-12-26,17:18,28229.33,BigBazaar,Pune,3,0,0,0,0
+TXN00415,Amit Kumar,ICICI Bank,2024-12-04,08:46,22993.08,DMart,Chennai,3,0,0,0,0
+TXN00151,Ritu Agarwal,ICICI Bank,2024-08-11,08:54,4208.03,Flipkart,Pune,4,0,0,0,0
+TXN00789,Anjali Singh,Axis Bank,2024-11-27,09:43,22147.88,BigBazaar,Mumbai,3,1,0,0,0
+TXN00641,Vivek Saxena,Axis Bank,2024-06-09,18:35,16246.58,DMart,Chennai,2,0,0,0,0
+TXN00890,Amit Kumar,ICICI Bank,2024-04-12,09:21,32445.89,Amazon,Delhi,3,0,1,0,0
+TXN00551,Priya Patel,ICICI Bank,2024-12-10,10:46,18989.55,BigBazaar,Pune,2,0,0,0,0
+TXN00887,Amit Kumar,ICICI Bank,2024-11-14,13:21,15668.78,BigBazaar,Chennai,1,1,1,0,0
+TXN00489,Amit Kumar,Kotak Mahindra,2024-10-15,09:30,10439.96,BigBazaar,Hyderabad,3,1,0,0,0
+TXN00148,Anita Das,HDFC Bank,2024-06-16,12:07,467.51,Unnamed Store,Chennai,2,0,0,1,0
+TXN00147,Rajesh Bose,HDFC Bank,2024-04-22,09:25,12212.02,DMart,Hyderabad,4,0,0,0,0
+TXN00721,Sneha Gupta,SBI,2024-04-02,21:53,32232.61,Zomato,Ahmedabad,2,1,0,0,0
+TXN00932,Nisha Pillai,Kotak Mahindra,2024-04-07,13:00,16933.38,DMart,Bangalore,4,0,0,0,0
+TXN00740,Ritu Agarwal,Kotak Mahindra,2024-07-12,14:36,18113.64,Amazon,Hyderabad,4,0,0,0,0
+TXN00660,Nisha Pillai,SBI,2024-02-02,20:07,11391.33,Unnamed Store,Chennai,1,0,0,1,0
+TXN00349,Meena Rao,Kotak Mahindra,2024-10-04,19:19,1181.59,BigBazaar,Pune,2,0,0,0,0
+TXN00464,Suresh Joshi,HDFC Bank,2024-11-30,16:24,24690.02,Unnamed Store,Hyderabad,3,0,0,1,0
+TXN00326,Suresh Joshi,ICICI Bank,2024-09-21,17:02,28944.7,Amazon,Pune,1,0,0,0,0
+TXN00187,Rahul Sharma,SBI,2024-11-26,18:23,29733.69,Amazon,Ahmedabad,2,0,0,0,0
+TXN00124,Deepak Malhotra,HDFC Bank,2024-02-25,09:43,9403.16,Zomato,Ahmedabad,3,1,0,0,0
+TXN00854,Meena Rao,SBI,2024-07-04,17:02,3330.83,Unnamed Store,Hyderabad,2,0,0,1,0
+TXN00609,Amit Kumar,ICICI Bank,2024-12-11,13:03,21541.55,Amazon,Ahmedabad,2,0,0,0,0
+TXN00144,Deepak Malhotra,HDFC Bank,2024-08-20,18:21,5137.24,Amazon,Mumbai,2,1,0,0,0
+TXN00959,Anita Das,Kotak Mahindra,2024-05-31,14:53,7930.53,BigBazaar,Mumbai,4,0,0,0,0
+TXN00198,Vivek Saxena,Kotak Mahindra,2024-01-24,18:41,5565.96,Unnamed Store,Pune,1,0,0,1,0
+TXN00610,Sneha Gupta,Axis Bank,2024-06-19,14:52,2072.24,Flipkart,Kolkata,4,0,0,0,0
+TXN00280,Amit Kumar,HDFC Bank,2024-08-08,18:06,26959.6,Flipkart,Pune,1,1,0,0,0
+TXN00294,Rahul Sharma,SBI,2024-10-16,12:47,10364.73,BigBazaar,Chennai,3,0,0,0,0
+TXN00401,Sunita Mishra,ICICI Bank,2024-04-18,10:46,26304.02,Amazon,Kolkata,2,0,0,0,0
+TXN00123,Suresh Joshi,HDFC Bank,2024-07-06,09:05,16497.93,Unnamed Store,Bangalore,2,1,1,1,0
+TXN00184,Amit Kumar,PNB,2024-02-10,14:20,14972.59,BigBazaar,Bangalore,3,0,0,0,0
+TXN00203,Sneha Gupta,HDFC Bank,2024-06-09,14:12,10299.38,Flipkart,Kolkata,2,0,1,0,0
+TXN00439,Rajesh Bose,SBI,2024-12-05,16:21,14674.41,Amazon,Kolkata,3,0,0,0,0
+TXN00247,Amit Kumar,Axis Bank,2024-11-04,09:02,29680.24,Amazon,Chennai,3,1,1,0,0
+TXN00416,Pooja Nair,Axis Bank,2024-09-15,18:54,12232.08,Flipkart,Kolkata,1,0,0,0,0
+TXN00933,Rahul Sharma,Kotak Mahindra,2024-07-15,13:31,25616.83,Swiggy,Ahmedabad,4,1,0,0,0
+TXN00766,Anjali Singh,Axis Bank,2024-08-24,21:12,30698.37,Amazon,Chennai,1,0,0,0,0
+TXN00907,Nisha Pillai,HDFC Bank,2024-03-25,09:16,34837.01,BigBazaar,Delhi,3,1,0,0,0
+TXN00836,Amit Kumar,SBI,2024-11-12,17:34,24810.86,BigBazaar,Hyderabad,1,0,0,0,0
+TXN00888,Ritu Agarwal,Axis Bank,2024-07-14,14:01,16470.77,Unnamed Store,Pune,4,0,0,1,0
+TXN00130,Karan Kapoor,HDFC Bank,2024-10-16,18:13,23264.35,Amazon,Mumbai,3,0,0,0,0
+TXN00638,Deepak Malhotra,Axis Bank,2024-03-15,19:33,10687.58,Swiggy,Chennai,4,1,0,0,0
+TXN00403,Priya Patel,Kotak Mahindra,2024-08-01,18:28,34814.87,DMart,Delhi,1,0,0,0,0
+TXN00785,Suresh Joshi,HDFC Bank,2024-05-02,16:49,26084.24,Amazon,Kolkata,4,0,0,0,0
+TXN00771,Rohit Verma,HDFC Bank,2024-10-25,12:43,10298.72,BigBazaar,Chennai,4,0,0,0,0
+TXN00736,Priya Patel,Axis Bank,2024-02-01,17:01,9366.01,BigBazaar,Kolkata,3,0,0,0,0
+TXN00914,Priya Patel,Axis Bank,2024-01-09,22:26,26895.58,Zomato,Chennai,2,0,0,0,0
+TXN00220,Nisha Pillai,ICICI Bank,2024-01-26,19:42,32669.23,Flipkart,Hyderabad,1,0,0,0,0
+TXN00642,Rahul Sharma,PNB,2024-06-28,09:14,494.97,Swiggy,Mumbai,1,0,0,0,0
+TXN00916,Rajesh Bose,HDFC Bank,2024-03-02,13:14,28583.73,BigBazaar,Chennai,2,1,0,0,0
+TXN00753,Amit Kumar,Axis Bank,2024-12-06,19:53,33022.04,Flipkart,Bangalore,1,0,1,0,0
+TXN00807,Ritu Agarwal,PNB,2024-12-19,13:47,22907.01,Unnamed Store,Ahmedabad,2,0,0,1,0
+TXN00920,Rohit Verma,ICICI Bank,2024-01-10,20:38,6301.52,Unnamed Store,Pune,4,0,0,1,0
+TXN00625,Meena Rao,Axis Bank,2024-03-14,21:46,5568.5,Flipkart,Bangalore,1,0,0,0,0
+TXN00875,Sunita Mishra,PNB,2024-04-04,21:52,26938.52,Unnamed Store,Pune,4,0,0,1,0
+TXN00761,Ritu Agarwal,HDFC Bank,2024-02-21,09:52,9736.47,Swiggy,Ahmedabad,4,0,0,0,0
+TXN00387,Meena Rao,Kotak Mahindra,2024-06-21,17:17,22727.51,Zomato,Hyderabad,1,1,0,0,0
+TXN00973,Nisha Pillai,Kotak Mahindra,2024-11-02,16:44,17202.0,Unnamed Store,Delhi,2,0,0,1,0
+TXN00510,Vivek Saxena,Kotak Mahindra,2024-12-04,14:16,33800.31,Flipkart,Bangalore,1,0,0,0,0
+TXN00268,Rohit Verma,Axis Bank,2024-02-24,18:05,24966.36,DMart,Bangalore,4,0,0,0,0
+TXN00820,Vikram Mehta,Kotak Mahindra,2024-06-03,17:05,21927.72,DMart,Ahmedabad,3,1,0,0,0
+TXN00442,Kavya Iyer,HDFC Bank,2024-05-31,21:57,31914.49,BigBazaar,Pune,4,1,0,0,0
+TXN00497,Priya Patel,Kotak Mahindra,2024-08-22,15:07,28014.59,BigBazaar,Mumbai,3,1,0,0,0
+TXN00113,Kavya Iyer,SBI,2024-12-21,14:19,26187.47,Unnamed Store,Delhi,1,1,0,1,0
+TXN00692,Anjali Singh,PNB,2024-02-29,10:02,18829.02,Unnamed Store,Bangalore,2,0,0,1,0
+TXN00233,Vivek Saxena,Kotak Mahindra,2024-09-18,13:28,5414.86,Amazon,Ahmedabad,2,1,0,0,0
+TXN00870,Meena Rao,ICICI Bank,2024-06-24,16:18,20511.57,Flipkart,Bangalore,4,0,1,0,0
+TXN00608,Rajesh Bose,HDFC Bank,2024-05-05,13:10,7388.89,Zomato,Pune,2,0,1,0,0
+TXN00672,Deepak Malhotra,ICICI Bank,2024-06-20,19:08,4946.88,DMart,Chennai,3,0,0,0,0
+TXN00374,Ritu Agarwal,ICICI Bank,2024-03-14,15:39,13529.91,Amazon,Ahmedabad,2,0,0,0,0
+TXN00982,Amit Kumar,ICICI Bank,2024-06-19,09:49,4536.82,Amazon,Kolkata,3,0,0,0,0
+TXN00843,Anita Das,Kotak Mahindra,2024-08-25,16:35,8429.89,Amazon,Kolkata,3,0,0,0,0
+TXN00234,Priya Patel,Axis Bank,2024-01-12,14:25,4791.66,BigBazaar,Ahmedabad,1,1,0,0,0
+TXN00786,Deepak Malhotra,HDFC Bank,2024-03-02,11:19,913.82,Swiggy,Bangalore,4,0,0,0,0
+TXN00677,Sunita Mishra,PNB,2024-08-19,08:31,26947.5,BigBazaar,Kolkata,4,1,0,0,0
+TXN00318,Amit Kumar,PNB,2024-09-18,17:58,18872.46,Zomato,Bangalore,1,0,0,0,0
+TXN00649,Sunita Mishra,SBI,2024-12-24,08:21,22919.71,DMart,Mumbai,4,0,0,0,0
+TXN00411,Karan Kapoor,Kotak Mahindra,2024-07-24,19:25,9537.17,Zomato,Delhi,3,0,0,0,0
+TXN00899,Anita Das,Axis Bank,2024-05-29,11:42,1133.98,Swiggy,Delhi,3,0,0,0,0
+TXN00710,Meena Rao,HDFC Bank,2024-11-02,16:48,10287.0,BigBazaar,Delhi,2,0,0,0,0
+TXN00359,Ritu Agarwal,Axis Bank,2024-08-19,13:04,30885.62,Amazon,Kolkata,4,0,0,0,0
+TXN00259,Deepak Malhotra,HDFC Bank,2024-12-16,14:52,13182.2,BigBazaar,Ahmedabad,2,0,0,0,0
+TXN00745,Kavya Iyer,Kotak Mahindra,2024-11-15,14:32,28183.61,Flipkart,Pune,4,1,0,0,0
+TXN00628,Rahul Sharma,Kotak Mahindra,2024-10-22,19:23,17535.86,DMart,Chennai,3,1,1,0,0
+TXN00633,Vivek Saxena,HDFC Bank,2024-09-15,12:04,23039.93,Zomato,Mumbai,4,0,0,0,0
+TXN00283,Rohit Verma,ICICI Bank,2024-02-19,15:28,11053.78,BigBazaar,Chennai,4,0,0,0,0
+TXN00377,Kavya Iyer,PNB,2024-08-14,21:13,15620.25,Zomato,Pune,4,0,0,0,0
+TXN00385,Arjun Reddy,Kotak Mahindra,2024-05-09,12:13,28216.98,Swiggy,Hyderabad,4,0,0,0,0
+TXN00225,Anita Das,HDFC Bank,2024-08-27,13:17,32510.23,Swiggy,Hyderabad,4,0,1,0,0
+TXN00954,Deepak Malhotra,ICICI Bank,2024-11-20,12:46,7869.09,DMart,Ahmedabad,1,0,1,0,0
+TXN00815,Rajesh Bose,SBI,2024-08-03,13:50,3166.14,Zomato,Kolkata,2,0,1,0,0
+TXN00473,Sneha Gupta,HDFC Bank,2024-08-31,21:57,7241.73,Unnamed Store,Kolkata,2,0,0,1,0
+TXN00348,Pooja Nair,Kotak Mahindra,2024-10-30,20:20,29658.38,Zomato,Kolkata,2,0,0,0,0
+TXN00506,Anita Das,SBI,2024-12-10,18:32,20274.51,Unnamed Store,Bangalore,3,0,0,1,0
+TXN00640,Meena Rao,Axis Bank,2024-05-10,18:41,21444.9,Zomato,Hyderabad,3,0,0,0,0
+TXN00988,Karan Kapoor,SBI,2024-09-23,13:45,15475.81,BigBazaar,Ahmedabad,3,0,0,0,0
+TXN00929,Sunita Mishra,HDFC Bank,2024-08-04,13:32,33295.26,Swiggy,Kolkata,2,1,0,0,0
+TXN00906,Priya Patel,SBI,2024-09-09,10:26,31016.86,DMart,Hyderabad,3,0,0,0,0
+TXN00620,Rahul Sharma,SBI,2024-12-14,15:56,23198.67,Swiggy,Hyderabad,4,0,0,0,0
+TXN00856,Rajesh Bose,Axis Bank,2024-05-12,11:59,6132.6,Amazon,Bangalore,2,0,0,0,0
+TXN00804,Nisha Pillai,HDFC Bank,2024-11-26,18:22,9521.14,Swiggy,Kolkata,1,1,1,0,0
+TXN00646,Priya Patel,Axis Bank,2024-02-05,08:31,13722.95,Unnamed Store,Hyderabad,3,0,0,1,0
+TXN00847,Anjali Singh,HDFC Bank,2024-11-19,22:13,2294.09,Zomato,Ahmedabad,3,1,0,0,0
+TXN00557,Rahul Sharma,ICICI Bank,2024-04-29,13:12,6090.08,BigBazaar,Ahmedabad,2,1,0,0,0
+TXN00958,Priya Patel,Kotak Mahindra,2024-09-23,21:42,18838.99,Swiggy,Kolkata,3,0,0,0,0
+TXN00578,Pooja Nair,Kotak Mahindra,2024-05-29,19:28,18917.85,BigBazaar,Mumbai,4,0,0,0,0
+TXN00796,Deepak Malhotra,HDFC Bank,2024-11-12,18:52,663.0,Swiggy,Ahmedabad,4,1,0,0,0
+TXN00086,Anjali Singh,SBI,2024-05-31,15:14,7730.19,DMart,Hyderabad,3,0,0,0,0
+TXN00243,Rohit Verma,PNB,2024-10-11,14:31,18339.54,Zomato,Hyderabad,1,0,0,0,0
+TXN00699,Amit Kumar,Kotak Mahindra,2024-03-16,15:45,13925.94,BigBazaar,Pune,1,0,0,0,0
+TXN00160,Anita Das,SBI,2024-01-27,22:50,12863.65,Swiggy,Hyderabad,4,0,1,0,0
+TXN00525,Karan Kapoor,SBI,2024-07-18,08:43,25869.14,Swiggy,Chennai,1,0,0,0,0
+TXN00036,Sunita Mishra,Kotak Mahindra,2024-02-11,04:54,233474.36,Unknown Crypto Exchange,London,14,1,1,2,1
+TXN00541,Vikram Mehta,SBI,2024-07-02,11:43,18511.48,BigBazaar,Bangalore,4,0,1,0,0
+TXN00171,Meena Rao,HDFC Bank,2024-04-24,14:01,14638.41,Flipkart,Pune,4,0,0,0,0
+TXN00655,Sunita Mishra,Kotak Mahindra,2024-06-21,20:50,33780.39,Amazon,Ahmedabad,1,0,0,0,0
+TXN00891,Vikram Mehta,PNB,2024-06-02,12:18,11657.6,Flipkart,Hyderabad,2,0,0,0,0
+TXN00858,Ritu Agarwal,PNB,2024-05-20,18:07,23623.87,Unnamed Store,Mumbai,3,1,0,1,0
+TXN00848,Vivek Saxena,Kotak Mahindra,2024-03-12,10:46,9989.63,Zomato,Delhi,1,1,0,0,0
+TXN00945,Rahul Sharma,PNB,2024-09-23,08:48,20469.1,Flipkart,Delhi,1,1,1,0,0
+TXN00734,Priya Patel,SBI,2024-03-09,21:19,19572.0,DMart,Hyderabad,2,1,0,0,0
+TXN00096,Kavya Iyer,Kotak Mahindra,2024-12-24,17:25,26263.73,Swiggy,Hyderabad,1,1,0,0,0
+TXN00564,Karan Kapoor,Kotak Mahindra,2024-07-20,08:47,32436.98,Flipkart,Mumbai,3,0,0,0,0
+TXN00241,Karan Kapoor,Kotak Mahindra,2024-04-29,21:34,23586.42,Flipkart,Mumbai,1,1,0,0,0
+TXN00743,Arjun Reddy,HDFC Bank,2024-02-18,17:37,10546.75,Unnamed Store,Kolkata,2,0,1,1,0
+TXN00575,Vikram Mehta,SBI,2024-05-06,22:27,2501.54,Unnamed Store,Ahmedabad,4,0,0,1,0
+TXN00691,Arjun Reddy,SBI,2024-03-26,12:39,17051.66,Flipkart,Mumbai,3,0,0,0,0
+TXN00461,Pooja Nair,Kotak Mahindra,2024-10-16,20:42,24008.83,Swiggy,Bangalore,2,0,1,0,0
+TXN00554,Ritu Agarwal,PNB,2024-11-29,10:36,4737.06,BigBazaar,Ahmedabad,2,1,0,0,0
+TXN00889,Anjali Singh,Axis Bank,2024-09-19,18:34,8335.91,Zomato,Delhi,1,0,1,0,0
+TXN00207,Priya Patel,Axis Bank,2024-09-15,16:28,1980.29,Zomato,Chennai,3,0,0,0,0
+TXN00393,Suresh Joshi,ICICI Bank,2024-11-20,12:37,9267.46,Unnamed Store,Ahmedabad,1,1,0,1,0
+TXN00795,Anjali Singh,SBI,2024-01-10,19:00,6641.04,Unnamed Store,Hyderabad,1,1,1,1,0
+TXN00398,Deepak Malhotra,HDFC Bank,2024-12-12,11:00,1512.84,Amazon,Pune,3,0,0,0,0
+TXN00767,Arjun Reddy,PNB,2024-02-15,08:23,29843.71,BigBazaar,Kolkata,4,0,0,0,0
+TXN00849,Nisha Pillai,ICICI Bank,2024-05-19,11:15,30764.12,DMart,Pune,3,0,0,0,0
+TXN00218,Meena Rao,Kotak Mahindra,2024-06-25,20:49,32692.77,Zomato,Hyderabad,1,1,0,0,0
+TXN00005,Vikram Mehta,ICICI Bank,2024-06-25,03:38,65953.11,Anonymous Merchant,Dubai,19,1,1,2,1
+TXN00769,Vikram Mehta,SBI,2024-08-08,21:54,33122.62,Zomato,Hyderabad,4,1,0,0,0
+TXN00643,Kavya Iyer,ICICI Bank,2024-02-14,08:54,6919.17,Amazon,Delhi,2,0,0,0,0
+TXN00930,Anita Das,PNB,2024-06-02,10:38,15283.38,Amazon,Ahmedabad,4,1,0,0,0
+TXN00613,Meena Rao,Axis Bank,2024-01-16,22:04,6580.69,Unnamed Store,Pune,3,1,0,1,0
+TXN00739,Amit Kumar,ICICI Bank,2024-12-02,10:55,4183.6,BigBazaar,Mumbai,3,0,0,0,0
+TXN00547,Rohit Verma,SBI,2024-10-19,22:25,9421.59,Flipkart,Chennai,3,0,0,0,0
+TXN00726,Sneha Gupta,Axis Bank,2024-12-21,18:37,15444.43,Amazon,Delhi,2,1,0,0,0
+TXN00684,Sneha Gupta,PNB,2024-05-16,20:32,16851.57,Unnamed Store,Chennai,2,0,0,1,0
+TXN00099,Karan Kapoor,ICICI Bank,2024-06-27,17:26,6515.82,DMart,Kolkata,4,0,0,0,0
+TXN00805,Karan Kapoor,PNB,2024-08-12,10:14,15380.8,DMart,Hyderabad,2,1,0,0,0
+TXN00728,Deepak Malhotra,HDFC Bank,2024-08-31,14:42,8303.86,Zomato,Ahmedabad,3,1,0,0,0
+TXN00574,Rohit Verma,SBI,2024-04-23,08:47,6925.44,Unnamed Store,Kolkata,1,0,0,1,0
+TXN00407,Priya Patel,Kotak Mahindra,2024-12-09,11:05,17473.14,Zomato,Ahmedabad,2,0,0,0,0
+TXN00503,Rajesh Bose,Kotak Mahindra,2024-02-20,20:44,25275.5,Zomato,Ahmedabad,3,0,0,0,0
+TXN00048,Nisha Pillai,SBI,2024-01-21,00:57,133106.28,Anonymous Merchant,Singapore,20,1,1,2,1
+TXN00033,Vikram Mehta,Axis Bank,2024-05-15,01:59,230000.79,Unknown Crypto Exchange,New York,12,1,1,2,1
+TXN00780,Nisha Pillai,Axis Bank,2024-05-25,09:11,16130.04,Amazon,Bangalore,3,0,0,0,0
+TXN00840,Rajesh Bose,ICICI Bank,2024-04-03,09:16,13493.98,Amazon,Delhi,2,0,0,0,0
+TXN00201,Ritu Agarwal,Axis Bank,2024-03-07,13:48,16362.59,Zomato,Bangalore,3,0,0,0,0
+TXN00135,Priya Patel,Axis Bank,2024-06-13,14:38,29685.99,Swiggy,Delhi,4,0,0,0,0
+TXN00028,Ritu Agarwal,SBI,2024-07-29,23:29,64336.79,Anonymous Merchant,New York,12,1,1,2,1
+TXN00881,Vikram Mehta,SBI,2024-11-11,19:37,18732.9,Zomato,Pune,4,0,0,0,0
+TXN00231,Pooja Nair,SBI,2024-12-14,15:48,16840.73,Swiggy,Pune,4,0,0,0,0
+TXN00490,Pooja Nair,ICICI Bank,2024-05-12,15:04,33651.11,BigBazaar,Ahmedabad,1,1,0,0,0
+TXN00773,Anita Das,ICICI Bank,2024-06-30,16:38,2742.34,Amazon,Mumbai,3,0,0,0,0
+TXN00379,Rajesh Bose,Axis Bank,2024-05-07,21:02,4920.61,Flipkart,Mumbai,2,0,0,0,0
+TXN00289,Sneha Gupta,ICICI Bank,2024-06-09,15:07,12449.08,Unnamed Store,Bangalore,3,0,0,1,0
+TXN00419,Sunita Mishra,Axis Bank,2024-10-12,15:35,11198.94,Amazon,Mumbai,4,1,0,0,0
+TXN00675,Rajesh Bose,Axis Bank,2024-08-07,11:47,30204.53,Unnamed Store,Ahmedabad,4,0,0,1,0
+TXN00392,Anjali Singh,PNB,2024-08-03,18:50,31505.77,Flipkart,Delhi,3,0,0,0,0
+TXN00593,Meena Rao,SBI,2024-04-09,15:00,21577.29,Swiggy,Ahmedabad,2,0,0,0,0
+TXN00499,Meena Rao,Kotak Mahindra,2024-06-24,10:23,30192.1,Flipkart,Hyderabad,3,1,1,0,0
+TXN00139,Sunita Mishra,HDFC Bank,2024-10-11,09:03,3374.62,Swiggy,Delhi,1,0,0,0,0
+TXN00063,Karan Kapoor,HDFC Bank,2024-10-13,22:38,19597.72,Swiggy,Delhi,2,1,1,0,0
+TXN00472,Arjun Reddy,SBI,2024-07-16,13:08,25401.7,BigBazaar,Ahmedabad,1,0,0,0,0
+TXN00648,Sneha Gupta,Axis Bank,2024-01-10,09:57,25095.93,Amazon,Mumbai,1,0,0,0,0
+TXN00129,Meena Rao,Kotak Mahindra,2024-03-03,18:54,31579.03,Amazon,Pune,4,0,0,0,0
+TXN00977,Suresh Joshi,Kotak Mahindra,2024-01-19,13:12,31895.25,DMart,Chennai,1,0,0,0,0
+TXN00521,Priya Patel,Kotak Mahindra,2024-04-29,09:05,970.15,Zomato,Hyderabad,2,1,0,0,0
+TXN00839,Deepak Malhotra,Kotak Mahindra,2024-01-13,21:55,1765.43,Zomato,Mumbai,4,0,0,0,0
+TXN00963,Deepak Malhotra,ICICI Bank,2024-12-13,18:30,34456.76,Amazon,Bangalore,4,0,0,0,0
+TXN00065,Pooja Nair,PNB,2024-02-09,20:45,9850.44,DMart,Ahmedabad,2,0,0,0,0
+TXN00813,Vikram Mehta,ICICI Bank,2024-11-27,12:23,5664.73,Unnamed Store,Ahmedabad,4,0,0,1,0
+TXN00015,Sunita Mishra,HDFC Bank,2024-03-22,22:50,199935.34,Offshore Wire Transfer,Dubai,16,1,1,2,1
+TXN00157,Priya Patel,ICICI Bank,2024-10-10,09:50,29143.04,BigBazaar,Delhi,4,1,1,0,0
+TXN00041,Arjun Reddy,SBI,2024-03-21,00:28,236318.17,Anonymous Merchant,London,10,1,1,2,1
+TXN00493,Anjali Singh,Axis Bank,2024-04-30,11:47,11122.77,Flipkart,Hyderabad,2,1,0,0,0
+TXN00380,Karan Kapoor,HDFC Bank,2024-07-22,19:40,32147.48,Zomato,Chennai,3,1,1,0,0
+TXN00188,Meena Rao,Axis Bank,2024-08-15,08:48,33241.46,DMart,Bangalore,4,0,0,0,0
+TXN00764,Amit Kumar,HDFC Bank,2024-09-01,16:55,5692.22,Unnamed Store,Bangalore,4,0,0,1,0
+TXN00217,Pooja Nair,ICICI Bank,2024-06-11,11:30,19621.42,Unnamed Store,Hyderabad,3,0,0,1,0
+TXN00792,Amit Kumar,HDFC Bank,2024-05-09,16:22,18066.83,Swiggy,Kolkata,1,1,1,0,0
+TXN00053,Rahul Sharma,PNB,2024-11-24,13:32,6920.92,Unnamed Store,Hyderabad,1,0,0,1,0
+TXN00879,Rohit Verma,Axis Bank,2024-05-02,22:23,22989.45,Zomato,Delhi,2,0,0,0,0
+TXN00338,Priya Patel,PNB,2024-10-08,21:15,10599.66,Amazon,Bangalore,4,1,1,0,0
+TXN00749,Vikram Mehta,Axis Bank,2024-02-28,12:09,9489.33,Zomato,Bangalore,2,1,0,0,0
+TXN00720,Sneha Gupta,Kotak Mahindra,2024-10-02,16:00,26760.89,DMart,Chennai,2,0,0,0,0
+TXN00725,Ritu Agarwal,SBI,2024-12-11,22:31,30015.73,DMart,Ahmedabad,3,0,0,0,0
+TXN00296,Ritu Agarwal,HDFC Bank,2024-06-27,18:55,25812.41,Zomato,Chennai,1,1,0,0,0
+TXN00702,Ritu Agarwal,SBI,2024-09-25,17:21,29275.8,Flipkart,Delhi,2,0,0,0,0
+TXN00252,Pooja Nair,PNB,2024-04-27,12:24,5278.11,Zomato,Kolkata,2,0,0,0,0
+TXN00727,Sneha Gupta,PNB,2024-10-31,10:54,32400.1,Zomato,Delhi,2,0,0,0,0
+TXN00462,Rohit Verma,PNB,2024-05-15,13:23,25673.76,Flipkart,Mumbai,4,0,0,0,0
+TXN00456,Rahul Sharma,ICICI Bank,2024-09-02,11:29,8766.89,Zomato,Kolkata,3,0,0,0,0
+TXN00997,Meena Rao,HDFC Bank,2024-09-06,15:00,3726.55,Amazon,Chennai,2,1,0,0,0
+TXN00816,Pooja Nair,SBI,2024-03-15,14:49,28101.55,Swiggy,Kolkata,3,0,0,0,0
+TXN00863,Suresh Joshi,HDFC Bank,2024-10-23,16:07,28792.86,Amazon,Chennai,4,0,0,0,0
+TXN00270,Nisha Pillai,Kotak Mahindra,2024-11-02,09:50,18032.94,Amazon,Mumbai,3,0,1,0,0
+TXN00202,Meena Rao,Kotak Mahindra,2024-05-06,13:09,19745.46,Swiggy,Chennai,1,0,0,0,0
+TXN00162,Rohit Verma,ICICI Bank,2024-07-11,18:41,10996.06,Flipkart,Kolkata,1,0,1,0,0
+TXN00556,Vivek Saxena,HDFC Bank,2024-06-25,14:38,4116.04,Zomato,Kolkata,3,0,0,0,0
+TXN00730,Sunita Mishra,SBI,2024-12-13,10:01,22067.31,Amazon,Mumbai,1,0,0,0,0
+TXN00402,Rahul Sharma,Kotak Mahindra,2024-09-30,09:39,17761.25,DMart,Pune,1,1,0,0,0
+TXN00703,Amit Kumar,Kotak Mahindra,2024-10-11,09:29,26512.77,Swiggy,Mumbai,3,1,0,0,0
+TXN00477,Amit Kumar,ICICI Bank,2024-10-22,16:33,21020.57,Zomato,Kolkata,2,0,0,0,0
+TXN00822,Kavya Iyer,Kotak Mahindra,2024-06-04,18:46,12056.67,Amazon,Bangalore,1,0,0,0,0
+TXN00772,Karan Kapoor,HDFC Bank,2024-12-28,10:27,559.14,DMart,Pune,4,0,0,0,0
+TXN00106,Rohit Verma,HDFC Bank,2024-06-01,20:53,9813.41,Zomato,Kolkata,3,0,0,0,0
+TXN00566,Priya Patel,PNB,2024-06-23,14:57,9167.24,BigBazaar,Mumbai,3,0,0,0,0
+TXN00390,Priya Patel,Kotak Mahindra,2024-09-16,17:19,24840.8,Zomato,Chennai,2,1,0,0,0
+TXN00002,Nisha Pillai,HDFC Bank,2024-04-29,00:32,166050.97,Unknown Crypto Exchange,Dubai,9,1,1,2,1
+TXN00938,Vivek Saxena,HDFC Bank,2024-09-13,11:34,18245.09,Flipkart,Kolkata,4,0,0,0,0
+TXN00983,Arjun Reddy,SBI,2024-07-12,11:06,30436.17,Amazon,Hyderabad,1,1,0,0,0
+TXN00562,Amit Kumar,Axis Bank,2024-11-28,18:24,23180.97,Unnamed Store,Pune,1,0,0,1,0
+TXN00081,Deepak Malhotra,ICICI Bank,2024-05-12,21:21,1198.76,Flipkart,Pune,4,0,0,0,0
+TXN00206,Sunita Mishra,ICICI Bank,2024-07-25,21:23,18876.84,Swiggy,Delhi,2,0,0,0,0
+TXN00035,Vikram Mehta,HDFC Bank,2024-01-26,04:37,163731.96,Anonymous Merchant,Dubai,6,1,1,2,1
+TXN00776,Suresh Joshi,PNB,2024-09-12,10:55,18658.75,Amazon,Hyderabad,3,0,0,0,0
+TXN00509,Suresh Joshi,ICICI Bank,2024-07-04,19:47,22924.86,BigBazaar,Hyderabad,4,0,0,0,0
+TXN00428,Rajesh Bose,ICICI Bank,2024-11-15,16:45,29538.99,DMart,Pune,2,0,0,0,0
+TXN00455,Vikram Mehta,ICICI Bank,2024-08-07,13:10,17107.97,DMart,Hyderabad,2,0,0,0,0
+TXN00367,Karan Kapoor,Axis Bank,2024-02-13,21:42,9366.35,BigBazaar,Hyderabad,1,0,0,0,0
+TXN00092,Vivek Saxena,Kotak Mahindra,2024-12-04,19:05,2296.01,Unnamed Store,Delhi,2,0,0,1,0
+TXN00340,Deepak Malhotra,ICICI Bank,2024-02-03,18:12,24082.73,BigBazaar,Delhi,3,0,0,0,0
+TXN00898,Sunita Mishra,HDFC Bank,2024-03-31,15:02,11643.68,Amazon,Hyderabad,2,0,1,0,0
+TXN00565,Anjali Singh,HDFC Bank,2024-05-21,13:51,12267.94,DMart,Pune,3,0,1,0,0
+TXN00346,Deepak Malhotra,ICICI Bank,2024-09-28,13:22,6457.59,Amazon,Chennai,3,0,0,0,0
+TXN00777,Arjun Reddy,PNB,2024-03-25,14:20,12748.61,Zomato,Hyderabad,3,0,0,0,0
+TXN00242,Vikram Mehta,HDFC Bank,2024-06-03,12:56,5076.72,Unnamed Store,Chennai,3,0,0,1,0
+TXN00014,Arjun Reddy,PNB,2024-03-11,04:32,164840.13,Anonymous Merchant,New York,9,1,1,2,1
+TXN00316,Meena Rao,Kotak Mahindra,2024-02-04,20:00,23966.38,Unnamed Store,Ahmedabad,1,0,1,1,0
+TXN00601,Kavya Iyer,PNB,2024-05-01,19:23,30052.12,Zomato,Mumbai,4,0,0,0,0
+TXN00388,Suresh Joshi,ICICI Bank,2024-11-03,19:25,9287.91,Flipkart,Hyderabad,2,0,0,0,0
+TXN00274,Karan Kapoor,HDFC Bank,2024-06-20,08:27,4915.04,Zomato,Kolkata,4,0,0,0,0
+TXN00167,Pooja Nair,Axis Bank,2024-04-09,20:23,21448.72,Flipkart,Ahmedabad,2,0,0,0,0
+TXN00841,Amit Kumar,SBI,2024-01-30,14:19,10876.44,Amazon,Bangalore,3,0,0,0,0
+TXN00993,Amit Kumar,ICICI Bank,2024-03-28,16:23,29411.43,Amazon,Pune,4,1,0,0,0
+TXN00647,Vikram Mehta,Kotak Mahindra,2024-11-10,18:41,13863.68,Amazon,Ahmedabad,2,1,0,0,0
+TXN00819,Nisha Pillai,ICICI Bank,2024-08-16,13:41,25309.98,Amazon,Pune,3,0,0,0,0
+TXN00485,Rajesh Bose,ICICI Bank,2024-05-02,20:41,6977.18,BigBazaar,Chennai,2,0,0,0,0
+TXN00981,Rajesh Bose,Kotak Mahindra,2024-11-05,21:15,5908.7,Zomato,Bangalore,4,1,0,0,0
+TXN00505,Meena Rao,Kotak Mahindra,2024-06-28,20:55,19600.7,Zomato,Hyderabad,1,1,0,0,0
+TXN00832,Vivek Saxena,Axis Bank,2024-01-02,22:07,1893.06,Zomato,Hyderabad,2,0,0,0,0
+TXN00244,Priya Patel,ICICI Bank,2024-03-17,18:19,32967.21,Unnamed Store,Kolkata,3,1,0,1,0
+TXN00567,Deepak Malhotra,PNB,2024-10-20,19:09,4976.67,BigBazaar,Kolkata,2,1,0,0,0
+TXN00876,Rahul Sharma,ICICI Bank,2024-08-13,13:12,544.24,BigBazaar,Mumbai,1,0,0,0,0
+TXN00563,Pooja Nair,Axis Bank,2024-04-11,19:32,17897.2,Zomato,Delhi,4,0,0,0,0
+TXN00687,Anjali Singh,ICICI Bank,2024-09-11,09:09,33547.33,Flipkart,Delhi,3,0,0,0,0
+TXN00190,Anjali Singh,Axis Bank,2024-11-09,22:18,18217.54,Zomato,Delhi,3,1,0,0,0
+TXN00783,Sneha Gupta,ICICI Bank,2024-10-31,09:42,5551.39,Unnamed Store,Ahmedabad,4,1,0,1,0
+TXN00700,Ritu Agarwal,ICICI Bank,2024-10-14,08:05,13636.72,Zomato,Hyderabad,3,0,0,0,0
+TXN00476,Deepak Malhotra,ICICI Bank,2024-04-29,19:58,20698.87,Swiggy,Delhi,2,0,0,0,0
+TXN00682,Priya Patel,Kotak Mahindra,2024-08-26,18:39,33097.21,Amazon,Pune,1,1,0,0,0
+TXN00511,Amit Kumar,SBI,2024-07-22,09:33,6008.48,Amazon,Delhi,4,0,0,0,0
+TXN00059,Rahul Sharma,ICICI Bank,2024-09-18,14:30,10184.6,Swiggy,Pune,4,1,0,0,0
+TXN00475,Rahul Sharma,PNB,2024-09-03,16:50,22793.26,Zomato,Kolkata,1,1,0,0,0
+TXN00561,Rajesh Bose,HDFC Bank,2024-12-01,08:00,9089.88,Flipkart,Hyderabad,3,0,0,0,0
+TXN00857,Vivek Saxena,SBI,2024-08-20,19:00,30858.91,Flipkart,Hyderabad,1,0,1,0,0
+TXN00748,Pooja Nair,SBI,2024-02-02,20:40,26175.89,Unnamed Store,Hyderabad,4,1,0,1,0
+TXN00253,Vivek Saxena,SBI,2024-03-27,18:46,17575.69,Zomato,Pune,4,1,0,0,0
+TXN00022,Amit Kumar,Kotak Mahindra,2024-03-25,01:16,201996.06,Foreign Gambling Site,Bangkok,14,1,1,2,1
+TXN00314,Anita Das,Kotak Mahindra,2024-07-16,14:07,6764.9,DMart,Hyderabad,1,0,0,0,0
+TXN00460,Vivek Saxena,PNB,2024-09-14,10:00,30029.31,BigBazaar,Ahmedabad,1,1,0,0,0
+TXN00161,Suresh Joshi,HDFC Bank,2024-02-11,16:37,11673.24,Zomato,Kolkata,3,0,0,0,0
+TXN00277,Vivek Saxena,Kotak Mahindra,2024-05-29,20:53,6461.47,DMart,Mumbai,4,0,0,0,0
+TXN00956,Nisha Pillai,Axis Bank,2024-02-15,11:21,28333.97,Amazon,Hyderabad,3,0,0,0,0
+TXN00192,Suresh Joshi,PNB,2024-09-17,09:14,12290.4,Zomato,Hyderabad,2,0,0,0,0
+TXN00386,Karan Kapoor,ICICI Bank,2024-12-05,21:53,23766.43,BigBazaar,Kolkata,1,0,1,0,0
+TXN00806,Rajesh Bose,SBI,2024-12-30,18:24,20650.52,BigBazaar,Pune,4,0,0,0,0
+TXN00414,Meena Rao,Kotak Mahindra,2024-08-13,18:02,1202.8,Swiggy,Bangalore,4,0,0,0,0
+TXN00492,Rahul Sharma,PNB,2024-10-10,11:59,29159.76,Amazon,Hyderabad,4,0,0,0,0
+TXN00344,Nisha Pillai,Axis Bank,2024-05-07,12:40,2322.07,Flipkart,Kolkata,4,0,1,0,0
+TXN00770,Vikram Mehta,Kotak Mahindra,2024-07-28,21:50,7701.72,DMart,Hyderabad,2,1,0,0,0
+TXN00309,Rohit Verma,Axis Bank,2024-07-07,14:56,2664.83,DMart,Delhi,1,0,0,0,0
+TXN00662,Rohit Verma,HDFC Bank,2024-02-11,18:00,27728.62,Unnamed Store,Kolkata,2,0,0,1,0
+TXN00131,Amit Kumar,Kotak Mahindra,2024-03-15,11:08,7409.08,Zomato,Chennai,2,0,0,0,0
+TXN00664,Arjun Reddy,Kotak Mahindra,2024-11-09,11:05,15874.59,BigBazaar,Bangalore,1,0,0,0,0
+TXN00872,Vikram Mehta,PNB,2024-11-03,20:44,31815.81,Zomato,Delhi,2,1,0,0,0
+TXN00100,Suresh Joshi,ICICI Bank,2024-12-05,21:25,23520.65,Zomato,Bangalore,4,1,0,0,0
+TXN00373,Ritu Agarwal,HDFC Bank,2024-06-25,10:56,14622.6,Amazon,Delhi,1,0,1,0,0
+TXN00088,Rohit Verma,PNB,2024-09-02,15:28,30422.45,Unnamed Store,Delhi,1,0,0,1,0
+TXN00459,Priya Patel,Kotak Mahindra,2024-04-24,22:57,9269.45,DMart,Ahmedabad,2,0,0,0,0
+TXN00331,Rajesh Bose,SBI,2024-04-28,08:57,14809.59,DMart,Bangalore,3,0,0,0,0
+TXN00215,Sunita Mishra,PNB,2024-09-26,19:24,25513.59,BigBazaar,Bangalore,2,0,0,0,0
+TXN00467,Rajesh Bose,PNB,2024-07-31,10:51,9972.17,Flipkart,Bangalore,3,0,0,0,0
+TXN00122,Rohit Verma,Kotak Mahindra,2024-05-31,13:47,30700.83,Unnamed Store,Hyderabad,2,0,0,1,0
+TXN00615,Sneha Gupta,ICICI Bank,2024-07-30,09:15,19554.02,BigBazaar,Hyderabad,4,1,1,0,0
+TXN00021,Meena Rao,ICICI Bank,2024-09-05,01:52,94087.72,Unknown Crypto Exchange,Hong Kong,7,1,1,2,1
+TXN00701,Vikram Mehta,PNB,2024-08-05,19:46,31095.61,Unnamed Store,Kolkata,4,0,0,1,0
+TXN00072,Arjun Reddy,Axis Bank,2024-05-09,15:53,11591.87,Zomato,Pune,4,0,0,0,0
+TXN00107,Vivek Saxena,Kotak Mahindra,2024-10-09,15:48,34961.8,Swiggy,Bangalore,4,0,0,0,0
+TXN00271,Suresh Joshi,Axis Bank,2024-09-23,14:10,629.45,Unnamed Store,Kolkata,1,0,1,1,0
+TXN00861,Pooja Nair,SBI,2024-08-09,12:51,5923.96,DMart,Delhi,1,0,0,0,0
+TXN00436,Rajesh Bose,HDFC Bank,2024-10-26,14:54,13326.5,BigBazaar,Hyderabad,3,0,0,0,0
+TXN00103,Nisha Pillai,SBI,2024-06-08,15:35,32483.01,Amazon,Ahmedabad,1,0,0,0,0
